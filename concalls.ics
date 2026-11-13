@@ -8,1499 +8,8 @@ X-WR-TIMEZONE:Asia/Kolkata
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:APOLLOHOSP-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:APOLLOHOSP Q2FY27 concall
-DESCRIPTION:Apollo Hospitals Enterprise Ltd. (APOLLOHOSP) Q2FY27 earnings 
- call\nInvite: https://nsearchives.nseindia.com/corporate/APOLLOHOSP_06112
- 026104228_audio_recording_let.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:ASHOKA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:ASHOKA Q2FY27 concall
-DESCRIPTION:Ashoka Buildcon Ltd. (ASHOKA) Q2FY27 earnings call\nDial-in: +
-  91 253 6633705\, +91 253 2236704\nInvite: https://nsearchives.nseindia.c
- om/corporate/ASHOKA_06112026173711_ABL_Earning_Call_Transcript_Audio_Reco
- rding_061126.pdf
-LOCATION:+ 91 253 6633705
-END:VEVENT
-BEGIN:VEVENT
-UID:ASTERDM-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:ASTERDM Q2FY27 concall
-DESCRIPTION:Aster DM Quality Care Ltd. (ASTERDM) Q2FY27 earnings call\nInv
- ite: https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026233857_E
- arning_Call_recording_s.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:BHARTIARTL-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:BHARTIARTL Q2FY27 concall
-DESCRIPTION:Bharti Airtel Ltd. (BHARTIARTL) Q2FY27 earnings call\nDial-in:
-  +91-124-4222222\, +91-124-4248063\nInvite: https://nsearchives.nseindia.
- com/corporate/BHARTIARTL_06112026160637_BhartiAirtelSTXdisclosure.pdf
-LOCATION:+91-124-4222222
-END:VEVENT
-BEGIN:VEVENT
-UID:BHARTIHEXA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:BHARTIHEXA Q2FY27 concall
-DESCRIPTION:Bharti Hexacom Ltd. (BHARTIHEXA) Q2FY27 earnings call\nDial-in
- : +91-124-4248063\nInvite: https://nsearchives.nseindia.com/corporate/Hex
- acomApril20_06112026164515_BHL_Earnings_Call_OutcomeStx.pdf
-LOCATION:+91-124-4248063
-END:VEVENT
-BEGIN:VEVENT
-UID:CELLO-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:CELLO Q2FY27 concall
-DESCRIPTION:Cello World Ltd. (CELLO) Q2FY27 earnings call\nInvite: https:/
- /nsearchives.nseindia.com/corporate/CELLO2023_06112026114411_Outcome_of_I
- M.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:EIEL-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:EIEL Q2FY27 concall
-DESCRIPTION:Enviro Infra Engineers Ltd. (EIEL) Q2FY27 earnings call\nInvit
- e: https://nsearchives.nseindia.com/corporate/ENVIRO_06112026160151_CL_IM
- eet_Outcome_Intimation_September2026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:EXCELINDUS-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:EXCELINDUS Q2FY27 concall
-DESCRIPTION:Excel Industries Limited (EXCELINDUS) Q2FY27 earnings call\nIn
- vite: https://nsearchives.nseindia.com/corporate/EXCELINDUS_0611202618072
- 7_SE_Upload_signed.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:GALAPREC-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:GALAPREC Q2FY27 concall
-DESCRIPTION:Gala Precision Engineering Limited (GALAPREC) Q2FY27 earnings 
- call\nJoin: https://galagroup.com/wp-content/uploads/2026/11/Audio-Record
- ing-Earning-Call-Q2FY-of-27_.mp3\nInvite: https://nsearchives.nseindia.co
- m/corporate/GALAPRE_07112026111609_Gala-_Investor_Presentation_Con_call_u
- pdates.pdf
-URL:https://galagroup.com/wp-content/uploads/2026/11/Audio-Recording-Earni
- ng-Call-Q2FY-of-27_.mp3
-LOCATION:https://galagroup.com/wp-content/uploads/2026/11/Audio-Recording-
- Earning-Call-Q2FY-of-27_.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:GOKEX-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:GOKEX Q2FY27 concall
-DESCRIPTION:Gokaldas Exports Ltd. (GOKEX) Q2FY27 earnings call\nInvite: ht
- tps://nsearchives.nseindia.com/corporate/GOKEX_06112026170427_audiolink.p
- df
-END:VEVENT
-BEGIN:VEVENT
-UID:GREENLAM-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:GREENLAM Q2FY27 concall
-DESCRIPTION:Greenlam Industries Limited (GREENLAM) Q2FY27 earnings call\nI
- nvite: https://nsearchives.nseindia.com/corporate/GREENLAMAW_061120261828
- 42_Earning_Call_Outcome.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:HAPPYFORGE-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:HAPPYFORGE Q2FY27 concall
-DESCRIPTION:Happy Forgings Ltd. (HAPPYFORGE) Q2FY27 earnings call\nInvite:
-  https://nsearchives.nseindia.com/corporate/9876964720_06112026164006_Lin
- kOfRecording06112026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:HINDALCO-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:HINDALCO Q2FY27 concall
-DESCRIPTION:Hindalco Industries Ltd. (HINDALCO) Q2FY27 earnings call\nDial
- -in: +91 22 69477000\, +91 2269477001\nInvite: https://nsearchives.nseind
- ia.com/corporate/HINDALCOIND_06112026181533_Audio_Recording_Intimation_si
- gned.pdf
-LOCATION:+91 22 69477000
-END:VEVENT
-BEGIN:VEVENT
-UID:HONASA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:HONASA Q2FY27 concall
-DESCRIPTION:Honasa Consumer Ltd. (HONASA) Q2FY27 earnings call\nInvite: ht
- tps://nsearchives.nseindia.com/corporate/HONASA16_06112026174339_Audiorec
- ordings.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:IGPL-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:IGPL Q2FY27 concall
-DESCRIPTION:IG Petrochemicals Limited (IGPL) Q2FY27 earnings call\nInvite:
-  https://nsearchives.nseindia.com/corporate/IGPL_06112026173601_CL_AudioL
- ink_InvestorCall06112026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:IKS-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:IKS Q2FY27 concall
-DESCRIPTION:Inventurus Knowledge Solutions Ltd. (IKS) Q2FY27 earnings call
- \nDial-in: +91 22 3071 1100\nInvite: https://nsearchives.nseindia.com/cor
- porate/IKS2006_06112026155945_20261106AudioRecordingSEUpload.pdf
-LOCATION:+91 22 3071 1100
-END:VEVENT
-BEGIN:VEVENT
-UID:IRB-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:IRB Q2FY27 concall
-DESCRIPTION:IRB Infrastructure Developers Ltd. (IRB) Q2FY27 earnings call\
- nInvite: https://nsearchives.nseindia.com/corporate/IRB_06112026145950_Au
- dio_recording_of_earnings_call.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:KMEW-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:KMEW Q2FY27 concall
-DESCRIPTION:Knowledge Marine & Engineering Works Ltd. (KMEW) Q2FY27 earnin
- gs call\nInvite: https://nsearchives.nseindia.com/corporate/KMEW_06112026
- 192905_Earnings_Call-s.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:LGEINDIA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:LGEINDIA Q2FY27 concall
-DESCRIPTION:LG Electronics India Ltd. (LGEINDIA) Q2FY27 earnings call\nInv
- ite: https://nsearchives.nseindia.com/corporate/LGEINDIA_06112026230325_A
- udio_Recording_dated_6th_November_2026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:MPHASIS-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:MPHASIS Q2FY27 concall
-DESCRIPTION:MphasiS Ltd. (MPHASIS) Q2FY27 earnings call\nInvite: https://n
- searchives.nseindia.com/corporate/MPHASIS_06112026175124_Intimation_of_Au
- dio_Recording_-_November_2026_sd.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:NCC-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:NCC Q2FY27 concall
-DESCRIPTION:NCC Ltd. (NCC) Q2FY27 earnings call\nDial-in: +91 40 2326 8888
- \, +91 40 23125555\nInvite: https://nsearchives.nseindia.com/corporate/NC
- C_06112026160507_Audio_Recording_of_the_Coference_call.pdf
-LOCATION:+91 40 2326 8888
-END:VEVENT
-BEGIN:VEVENT
-UID:SAFEENTP-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SAFEENTP H1FY27 concall
-DESCRIPTION:Safe Enterprises Retail Fixtures Limited (SAFEENTP) H1FY27 ear
- nings call (NSE Emerge SME)\nDial-in: +91-7021883016\nInvite: https://nse
- archives.nseindia.com/corporate/SAFEENTERPRISES_07112026154532_earning_ca
- ll_recording_intimation_06112026.pdf
-LOCATION:+91-7021883016
-END:VEVENT
-BEGIN:VEVENT
-UID:SAILIFE-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SAILIFE Q2FY27 concall
-DESCRIPTION:Sai Life Sciences Ltd. (SAILIFE) Q2FY27 earnings call\nDial-in
- : +91 40 6815 6000\, +91 40 6815 6199\nInvite: https://nsearchives.nseind
- ia.com/corporate/SAILIFE_06112026150610_Stx_Audio_Recording_06112026_Sign
- ed.pdf
-LOCATION:+91 40 6815 6000
-END:VEVENT
-BEGIN:VEVENT
-UID:SANSERA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SANSERA Q2FY27 concall
-DESCRIPTION:Sansera Engineering Ltd. (SANSERA) Q2FY27 earnings call\nDial-
- in: +91 80-27839081\, +91 80-27839309\nInvite: https://nsearchives.nseind
- ia.com/corporate/SANSERA_06112026125055_audiorecording.pdf
-LOCATION:+91 80-27839081
-END:VEVENT
-BEGIN:VEVENT
-UID:SCHNEIDER-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SCHNEIDER Q2FY27 concall
-DESCRIPTION:Schneider Electric Infrastructure Ltd. (SCHNEIDER) Q2FY27 earn
- ings call\nDial-in: +91 9228078000\, +91 0266866200\nInvite: https://nsea
- rchives.nseindia.com/corporate/SCHNEIDER_06112026204327_InvestorsConferen
- ceCallRecordinglink.pdf
-LOCATION:+91 9228078000
-END:VEVENT
-BEGIN:VEVENT
-UID:SIGNATURE-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SIGNATURE Q2FY27 concall
-DESCRIPTION:Signatureglobal (India) Ltd. (SIGNATURE) Q2FY27 earnings call\
- nInvite: https://nsearchives.nseindia.com/corporate/SGLOBAL_0611202609133
- 4_Outcomeconcallsigned.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:SUPRIYA-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SUPRIYA Q2FY27 concall
-DESCRIPTION:Supriya Lifescience Ltd. (SUPRIYA) Q2FY27 earnings call\nDial-
- in: +91 22 26860011\, +91 2356 272299\, +91 2356 272178\nInvite: https://
- nsearchives.nseindia.com/corporate/SUPRIYA_06112026191221_OutcomeofEarnin
- gsCall061126.pdf
-LOCATION:+91 22 26860011
-END:VEVENT
-BEGIN:VEVENT
-UID:SYMBIOTEC-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:SYMBIOTEC Q2FY27 concall
-DESCRIPTION:Symbiotec Pharmalab Limited (SYMBIOTEC) Q2FY27 earnings call\n
- Dial-in: +91-731-6676405\, +91-731-4201222\nInvite: https://nsearchives.n
- seindia.com/corporate/SYMBIOTEC_06112026132817_Audio_link_intimation.pdf
-LOCATION:+91-731-6676405
-END:VEVENT
-BEGIN:VEVENT
-UID:TIMETECHNO-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:TIMETECHNO Q2FY27 concall
-DESCRIPTION:Time Technoplast Ltd. (TIMETECHNO) Q2FY27 earnings call\nInvit
- e: https://nsearchives.nseindia.com/corporate/TIMETECHNO_06112026185103_C
- overing_Letter.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:TTKPRESTIG-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:TTKPRESTIG Q2FY27 concall
-DESCRIPTION:TTK Prestige Ltd. (TTKPRESTIG) Q2FY27 earnings call\nInvite: h
- ttps://nsearchives.nseindia.com/corporate/TTKPRESTIG1_06112026174114_Cove
- rringLetter_AudioRecordings_Signed.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:VOLTAS-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:VOLTAS Q2FY27 concall
-DESCRIPTION:Voltas Ltd. (VOLTAS) Q2FY27 earnings call\nInvite: https://nse
- archives.nseindia.com/corporate/VOLTAS_RB_06112026211403_SEIntimationAudi
- oRecording.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:WELENT-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:WELENT Q2FY27 concall
-DESCRIPTION:Welspun Enterprises Ltd. (WELENT) Q2FY27 earnings call\nInvite
- : https://nsearchives.nseindia.com/corporate/WELENT_06112026173634_AudioR
- ecording.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:WINDLAS-202611060000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261105T183000Z
-DURATION:PT1H
-SUMMARY:WINDLAS Q2FY27 concall
-DESCRIPTION:Windlas Biotech Limited (WINDLAS) Q2FY27 earnings call\nDial-i
- n: +91-135-6608000\, +91-135-6608199\, +91-124-2821030\nInvite: https://n
- searchives.nseindia.com/corporate/WINDLAS_06112026203542_Audio_Recording_
- 061126.pdf
-LOCATION:+91-135-6608000
-END:VEVENT
-BEGIN:VEVENT
-UID:SIGNATURE-202611060800@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T023000Z
-DURATION:PT1H
-SUMMARY:SIGNATURE Q2FY27 concall
-DESCRIPTION:Signatureglobal (India) Ltd. (SIGNATURE) Q2FY27 earnings call\
- nDial-in: +91 22 6280 1144\, +91 22 7115 8045\, +91 22 6807 7451\, +91 22
-  6807 7254\, +91 22 6807 7334\, +91 9871116926\, +91 22 6807 7454\nInvite
- : https://nsearchives.nseindia.com/corporate/SGLOBAL_03112026213526_conca
- llinvitesigned.pdf
-LOCATION:+91 22 6280 1144
-END:VEVENT
-BEGIN:VEVENT
-UID:GLENMARK-202611060830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T030000Z
-DURATION:PT1H
-SUMMARY:GLENMARK Q2FY27 concall
-DESCRIPTION:Glenmark Pharmaceuticals Ltd. (GLENMARK) Q2FY27 earnings call\
- nDial-in: +91 22 4018 9999\, +91 22 4018 9986\, +91 22 6280 1298\, +91 22
-  7115 8199\, +91 22 4018 9232\nInvite: https://nsearchives.nseindia.com/c
- orporate/GLENMARK_23102026171432_Intimation_Earnings_Call_Signed.pdf
-LOCATION:+91 22 4018 9999
-END:VEVENT
-BEGIN:VEVENT
-UID:IKS-202611060830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T030000Z
-DURATION:PT1H
-SUMMARY:IKS Q2FY27 concall
-DESCRIPTION:Inventurus Knowledge Solutions Ltd. (IKS) Q2FY27 earnings call
- \nDial-in: +91 22 3071 1100\, +91 22 6280 1144\, +91 22 7115 8045\nInvite
- : https://nsearchives.nseindia.com/corporate/IKS2006_02112026160220_20261
- 102Regulation30SubEarningsConferenceCall.pdf
-LOCATION:+91 22 3071 1100
-END:VEVENT
-BEGIN:VEVENT
-UID:MPHASIS-202611060830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T030000Z
-DURATION:PT1H
-SUMMARY:MPHASIS Q2FY27 concall
-DESCRIPTION:MphasiS Ltd. (MPHASIS) Q2FY27 earnings call\nJoin: https://eve
- nt.choruscall.com/mediaframe/webcast.html?webcastid=IaxT2EWC | https://se
- rvices.choruscall.in/DiamondPassRegistration/register?confirm\nDial-in: +
- 91 22 6280 1165\, +91 22 7115 8066\, +91 22 71945757\nInvite: https://nse
- archives.nseindia.com/corporate/MPHASIS_09102026153148_Intimation_of_Inve
- stor_or_Analyst_Meet-Q2FY27-F_sd.pdf
-URL:https://event.choruscall.com/mediaframe/webcast.html?webcastid=IaxT2EW
- C
-LOCATION:https://event.choruscall.com/mediaframe/webcast.html?webcastid=Ia
- xT2EWC
-END:VEVENT
-BEGIN:VEVENT
-UID:BRITANNIA-202611060900@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T033000Z
-DURATION:PT1H
-SUMMARY:BRITANNIA Q2FY27 concall
-DESCRIPTION:Britannia Industries Ltd. (BRITANNIA) Q2FY27 earnings call\nJo
- in: https://services.choruscall.in/DiamondPassRegistration/register?confi
- rmationNumber=7072092&linkS\nDial-in: +91 22 6280 1313\, +91 22 7115 8214
- \nInvite: https://nsearchives.nseindia.com/corporate/BRITANNIA1_271020261
- 95733_Intimation_Signed.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=7072092&linkS
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=7072092&linkS
-END:VEVENT
-BEGIN:VEVENT
-UID:KPIL-202611060900@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T033000Z
-DURATION:PT1H
-SUMMARY:KPIL Q2FY27 concall
-DESCRIPTION:Kalpataru Projects International Ltd. (KPIL) Q2FY27 earnings c
- all\nDial-in: +91 22 3064 2100\, +91 22 6885 1500\, +91 79 2321 4000\nInv
- ite: https://nsearchives.nseindia.com/corporate/KALPATPOWR_06112026162402
- _SEIntimationCallRecording06112026.pdf
-LOCATION:+91 22 3064 2100
-END:VEVENT
-BEGIN:VEVENT
-UID:SYMBIOTEC-202611060930@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T040000Z
-DURATION:PT1H
-SUMMARY:SYMBIOTEC Q2FY27 concall
-DESCRIPTION:Symbiotec Pharmalab Limited (SYMBIOTEC) Q2FY27 earnings call\n
- Join: https://services.choruscall.in/DiamondPassRegistration/register?con
- firmationNumber=4849428&linkSecurityString=2ae4a932e4\nDial-in: +91-731-6
- 676405\, +91-731-4201222\, +91 22 6280 1230\, +91 22 7115 8131\, + 080810
- 11573\, + 18667462133\, + 8001012045\, + 800964448\nInvite: https://nsear
- chives.nseindia.com/corporate/SYMBIOTEC_28102026180231_Intimation_of_earn
- ing_Call_.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=4849428&linkSecurityString=2ae4a932e4
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=4849428&linkSecurityString=2ae4a932e4
-END:VEVENT
-BEGIN:VEVENT
-UID:AMAGI-202611061000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T043000Z
-DURATION:PT1H
-SUMMARY:AMAGI Q2FY27 concall
-DESCRIPTION:Amagi Media Labs Ltd. (AMAGI) Q2FY27 earnings call\nDial-in: +
- 91 80 4663 4444\, +91 22 6280 1309\, +91 22 7115 8210\, +91 99306 51660\,
-  +91 77380 73466\nInvite: https://nsearchives.nseindia.com/corporate/AMAG
- I_20102026161300_Q2EarningsCallInvite.pdf
-LOCATION:+91 80 4663 4444
-END:VEVENT
-BEGIN:VEVENT
-UID:CELLO-202611061000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T043000Z
-DURATION:PT1H
-SUMMARY:CELLO Q2FY27 concall
-DESCRIPTION:Cello World Ltd. (CELLO) Q2FY27 earnings call\nDial-in: +91 22
-  6280 1144\, +91 22 7115 8045\, +91 22 6807 7209\, +91 22 6807 7249\, +91
-  22 6807 7334\, +91 9871116926\, +91 22 6807 7454\nInvite: https://nsearc
- hives.nseindia.com/corporate/CELLO2023_03112026183026_Investormeetintimat
- ionCWL.pdf
-LOCATION:+91 22 6280 1144
-END:VEVENT
-BEGIN:VEVENT
-UID:SANSERA-202611061000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T043000Z
-DURATION:PT1H
-SUMMARY:SANSERA Q2FY27 concall
-DESCRIPTION:Sansera Engineering Ltd. (SANSERA) Q2FY27 earnings call\nDial-
- in: +91 80-27839081\, +91 80-27839309\, +91 22 6280 1309\, +91 22 7115 82
- 10\, +91 98192 82743\, +91 7208179323\nInvite: https://nsearchives.nseind
- ia.com/corporate/SANSERA_02112026121229_EarningCallInvite.pdf
-LOCATION:+91 80-27839081
-END:VEVENT
-BEGIN:VEVENT
-UID:TIINDIA-202611061000@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T043000Z
-DURATION:PT1H
-SUMMARY:TIINDIA Q2FY27 concall
-DESCRIPTION:Tube Investments of India Ltd. (TIINDIA) Q2FY27 earnings call\
- nDial-in: +91 22 4646 4667\nInvite: https://nsearchives.nseindia.com/corp
- orate/TIINDIA_26102026193652_TIINSEBSEEarningsCallQ2FY27.pdf
-LOCATION:+91 22 4646 4667
-END:VEVENT
-BEGIN:VEVENT
-UID:CEMPRO-202611061100@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T053000Z
-DURATION:PT1H
-SUMMARY:CEMPRO Q2FY27 concall
-DESCRIPTION:Cemindia Projects Ltd. (CEMPRO) Q2FY27 earnings call\nInvite: 
- https://nsearchives.nseindia.com/corporate/ITD_06112026150329_stk_intim_a
- udio_30_09_2026_SIGNED.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:HAPPYFORGE-202611061100@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T053000Z
-DURATION:PT1H
-SUMMARY:HAPPYFORGE Q2FY27 concall
-DESCRIPTION:Happy Forgings Ltd. (HAPPYFORGE) Q2FY27 earnings call\nDial-in
- : +91 22 6280 1309\, +91 22 7115 8210\, +91-80824 66052\, +91-99206 02034
- \nInvite: https://nsearchives.nseindia.com/corporate/9876964720_241020261
- 55943_EarningsCallintimation.pdf
-LOCATION:+91 22 6280 1309
-END:VEVENT
-BEGIN:VEVENT
-UID:NBCC-202611061100@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T053000Z
-DURATION:PT1H
-SUMMARY:NBCC Q2FY27 concall
-DESCRIPTION:NBCC (India) Ltd. (NBCC) Q2FY27 earnings call\nJoin: nbccindia
- .in/pdfData/investorPresentation/NBCC India Ltd Q2FY27 Investor Call held
-  on 06.11.2026 at 11.00 Hrs IST.mp3 | nbccindia.in/webEnglish/Presentatio
- nNTranscript\nInvite: https://nsearchives.nseindia.com/corporate/NBCC_061
- 12026155648_Audio_call_intimation.pdf
-URL:nbccindia.in/pdfData/investorPresentation/NBCC India Ltd Q2FY27 Invest
- or Call held on 06.11.2026 at 11.00 Hrs IST.mp3
-LOCATION:nbccindia.in/pdfData/investorPresentation/NBCC India Ltd Q2FY27 I
- nvestor Call held on 06.11.2026 at 11.00 Hrs IST.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:SAILIFE-202611061100@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T053000Z
-DURATION:PT1H
-SUMMARY:SAILIFE Q2FY27 concall
-DESCRIPTION:Sai Life Sciences Ltd. (SAILIFE) Q2FY27 earnings call\nJoin: h
- ttps://services.choruscall.in/DiamondPassRegistration/register?confirmati
- onNumber=2692507&linkSecurityString=17b72eb6e2\nDial-in: +91 40 6815 6000
- \, +91 40 6815 6199\, +91 22 6280 1107\, +91 22 7115 8008\nInvite: https:
- //nsearchives.nseindia.com/corporate/SAILIFE_19102026170520_Stx_Intimatio
- n_Investor_Analyst_Signed.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=2692507&linkSecurityString=17b72eb6e2
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=2692507&linkSecurityString=17b72eb6e2
-END:VEVENT
-BEGIN:VEVENT
-UID:THERMAX-202611061100@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T053000Z
-DURATION:PT1H
-SUMMARY:THERMAX Q2FY27 concall
-DESCRIPTION:Thermax Ltd. (THERMAX) Q2FY27 earnings call\nJoin: http://www.
- thermaxglobal.com/investors/quarterlyresults\nInvite: https://nsearchives
- .nseindia.com/corporate/THERMAXNSE_06112026143413_TL_Audiorecordinginvest
- orcall_Q2.pdf
-URL:http://www.thermaxglobal.com/investors/quarterlyresults
-LOCATION:http://www.thermaxglobal.com/investors/quarterlyresults
-END:VEVENT
-BEGIN:VEVENT
-UID:GICRE-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:GICRE Q2FY27 concall
-DESCRIPTION:General Insurance Corporation of India (GICRE) Q2FY27 earnings
-  call\nDial-in: +91 22 6280 1107\, +91 22 7115 8008\, +91 22 2286 7507\, 
- +91 9920893764\nInvite: https://nsearchives.nseindia.com/corporate/GICRE_
- 03112026185431_signedSEintimationInvestorcall6thNov2026.pdf
-LOCATION:+91 22 6280 1107
-END:VEVENT
-BEGIN:VEVENT
-UID:IRB-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:IRB Q2FY27 concall
-DESCRIPTION:IRB Infrastructure Developers Ltd. (IRB) Q2FY27 earnings call\
- nJoin: https://services.choruscall.in/DiamondPassRegistration/register?co
- nfirmationNumber=0225628&linkSe\nDial-in: +91 22 6280 1341\, +91 98209 40
- 953\, +91 98211 94418\nInvite: https://nsearchives.nseindia.com/corporate
- /IRB_02112026171213_IRBIDL_Intimation_of_earnings_callsd.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=0225628&linkSe
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=0225628&linkSe
-END:VEVENT
-BEGIN:VEVENT
-UID:KIRIINDUS-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:KIRIINDUS Q2FY27 concall
-DESCRIPTION:Kiri Industries Limited (KIRIINDUS) Q2FY27 earnings call\nJoin
- : https://kiriindustries.com/wp-content/uploads/2025/09/Meetings-presenta
- tion.mp3\nInvite: https://nsearchives.nseindia.com/corporate/KIRIINDUS_06
- 112026141806_ConCall_AudioRecording_06112026_S.pdf
-URL:https://kiriindustries.com/wp-content/uploads/2025/09/Meetings-present
- ation.mp3
-LOCATION:https://kiriindustries.com/wp-content/uploads/2025/09/Meetings-pr
- esentation.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:NCC-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:NCC Q2FY27 concall
-DESCRIPTION:NCC Ltd. (NCC) Q2FY27 earnings call\nDial-in: +91 40 2326 8888
- \, +91 40 23125555\nInvite: https://nsearchives.nseindia.com/corporate/NC
- C_05112026200150_Disclosure_of_Investor_Presentation.pdf
-LOCATION:+91 40 2326 8888
-END:VEVENT
-BEGIN:VEVENT
-UID:WELENT-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:WELENT Q2FY27 concall
-DESCRIPTION:Welspun Enterprises Ltd. (WELENT) Q2FY27 earnings call\nJoin: 
- https://services.choruscall.in/DiamondPassRegistration/register?con | htt
- ps://services.choruscall.in/DiamondPassRegistration/register?confirmation
- Number=2939129&lin\nDial-in: +91 22 6280 1222\, +91 22 7115 8123\, +91 75
- 502 37208\nInvite: https://nsearchives.nseindia.com/corporate/WELENT_0411
- 2026195416_Revised.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?con
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- on
-END:VEVENT
-BEGIN:VEVENT
-UID:WINDLAS-202611061130@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T060000Z
-DURATION:PT1H
-SUMMARY:WINDLAS Q2FY27 concall
-DESCRIPTION:Windlas Biotech Limited (WINDLAS) Q2FY27 earnings call\nDial-i
- n: +91-135-6608000\, +91-135-6608199\, +91-124-2821030\, +91 22 6239 8024
- \, +91 22 6280 1256\, +91 22 7115 8157\nInvite: https://nsearchives.nsein
- dia.com/corporate/WINDLAS_30102026124802_ECI_061126_UP.pdf
-LOCATION:+91-135-6608000
-END:VEVENT
-BEGIN:VEVENT
-UID:BHARTIARTL-202611061200@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063000Z
-DURATION:PT1H
-SUMMARY:BHARTIARTL Q2FY27 concall
-DESCRIPTION:Bharti Airtel Ltd. (BHARTIARTL) Q2FY27 earnings call\nJoin: ht
- tps://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq- | https://zoom.
- us/download\nDial-in: +91-124-4222222\, +91-124-4248063\nInvite: https://
- nsearchives.nseindia.com/corporate/BHARTIARTL_28102026185916_AirtelSTXEar
- ningCallIntimation.pdf
-URL:https://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq-
-LOCATION:https://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq-
-END:VEVENT
-BEGIN:VEVENT
-UID:BHARTIHEXA-202611061200@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063000Z
-DURATION:PT1H
-SUMMARY:BHARTIHEXA Q2FY27 concall
-DESCRIPTION:Bharti Hexacom Ltd. (BHARTIHEXA) Q2FY27 earnings call\nJoin: h
- ttps://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq- | https://zoom
- .us/download\nInvite: https://nsearchives.nseindia.com/corporate/HexacomA
- pril20_28102026190908_Stx_intimation.pdf
-URL:https://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq-
-LOCATION:https://airtel.zoom.us/webinar/register/WN_WCJ1UMS8RJGlvjq-
-END:VEVENT
-BEGIN:VEVENT
-UID:BIKAJI-202611061200@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063000Z
-DURATION:PT1H
-SUMMARY:BIKAJI Q2FY27 concall
-DESCRIPTION:Bikaji Foods International Limited (BIKAJI) Q2FY27 earnings ca
- ll\nDial-in: +91-151-2250350\nInvite: https://nsearchives.nseindia.com/co
- rporate/BIKAJIFOODS_06112026193553_73.pdf
-LOCATION:+91-151-2250350
-END:VEVENT
-BEGIN:VEVENT
-UID:DHARMAJ-202611061200@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063000Z
-DURATION:PT1H
-SUMMARY:DHARMAJ Q2FY27 concall
-DESCRIPTION:Dharmaj Crop Guard Limited (DHARMAJ) Q2FY27 earnings call\nJoi
- n: https://www.dharmajcrop.com/wp-content/uploads/2026/11/Concall-Dharmaj
- -Crop-Guard-Limited-06112026-1.mp3 | https://www.dharmajcrop.com/investor
- /investors-analyst-meet-conference-call/\nInvite: https://nsearchives.nse
- india.com/corporate/DHARMAJ_06112026133149_BSENSE06112026.pdf
-URL:https://www.dharmajcrop.com/wp-content/uploads/2026/11/Concall-Dharmaj
- -Crop-Guard-Limited-06112026-1.mp3
-LOCATION:https://www.dharmajcrop.com/wp-content/uploads/2026/11/Concall-Dh
- armaj-Crop-Guard-Limited-06112026-1.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:LRRPL-202611061200@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063000Z
-DURATION:PT1H
-SUMMARY:LRRPL H1FY27 concall
-DESCRIPTION:Lead Reclaim And Rubber Products Limited (LRRPL) H1FY27 earnin
- gs call (NSE Emerge SME)\nDial-in: +91 9898 270892\, +91 81048 55515\nPas
- scode / ID: 873 7087 7272\nInvite: https://nsearchives.nseindia.com/corpo
- rate/LEAD_03112026154600_Intimation.pdf
-LOCATION:+91 9898 270892
-END:VEVENT
-BEGIN:VEVENT
-UID:FORTIS-202611061208@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T063800Z
-DURATION:PT1H
-SUMMARY:FORTIS Q2FY27 concall
-DESCRIPTION:Fortis Healthcare Ltd. (FORTIS) Q2FY27 earnings call\nInvite: 
- https://nsearchives.nseindia.com/corporate/FORTIS_06112026134117_investor
- meet.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:ADISOFT-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:ADISOFT H1FY27 concall
-DESCRIPTION:Adisoft Technologies Limited (ADISOFT) H1FY27 earnings call (N
- SE Emerge SME)\nJoin: https://www.adisoft.co.in/investors.php\nDial-in: +
- 918208781102\, +919890621607\nInvite: https://nsearchives.nseindia.com/co
- rporate/ADISOFT_07112026120303_Intimation_of_Earning_Call_Recording.pdf
-URL:https://www.adisoft.co.in/investors.php
-LOCATION:https://www.adisoft.co.in/investors.php
-END:VEVENT
-BEGIN:VEVENT
-UID:BECTORFOOD-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:BECTORFOOD Q2FY27 concall
-DESCRIPTION:Mrs. Bectors Food Specialities Ltd. (BECTORFOOD) Q2FY27 earnin
- gs call\nInvite: https://nsearchives.nseindia.com/corporate/BECTORFOOD_06
- 112026161128_Earning_Call_Audio_Recording_06112026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:CPPLUS-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:CPPLUS Q2FY27 concall
-DESCRIPTION:Aditya Infotech Ltd. (CPPLUS) Q2FY27 earnings call\nJoin: http
- s://adityagroup.com//uploads/investor/statutorycommunications/earninginve
- storcall/Audio_recording_06_11_2026.mp3\nInvite: https://nsearchives.nsei
- ndia.com/corporate/CPPLUS_06112026145038_signedoutcome.pdf
-URL:https://adityagroup.com//uploads/investor/statutorycommunications/earn
- inginvestorcall/Audio_recording_06_11_2026.mp3
-LOCATION:https://adityagroup.com//uploads/investor/statutorycommunications
- /earninginvestorcall/Audio_recording_06_11_2026.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:GOKEX-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:GOKEX Q2FY27 concall
-DESCRIPTION:Gokaldas Exports Ltd. (GOKEX) Q2FY27 earnings call\nDial-in: +
- 91 22 6280 1523\, +91 22 7115 8878\, +91 80 6895 1000\, +91 96203 93785\n
- Invite: https://nsearchives.nseindia.com/corporate/GOKEX_31102026122520_i
- ntimationofinvestorscall.pdf
-LOCATION:+91 22 6280 1523
-END:VEVENT
-BEGIN:VEVENT
-UID:HCG-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:HCG Q2FY27 concall
-DESCRIPTION:Healthcare Global Enterprises Ltd. (HCG) Q2FY27 earnings call\
- nDial-in: +91 22 6280 1141\, +91 22 7115 8042\, +91-9599655711\, +91 9833
- 0 90434\nInvite: https://nsearchives.nseindia.com/corporate/HCG2_13102026
- 192622_HCG_Intimation_-_Q2_FY27_Earnings_Call_Invite.pdf
-LOCATION:+91 22 6280 1141
-END:VEVENT
-BEGIN:VEVENT
-UID:HUDCO-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:HUDCO Q2FY27 concall
-DESCRIPTION:Housing & Urban Development Corporation Ltd. (HUDCO) Q2FY27 ea
- rnings call\nJoin: https://services.choruscall.in/DiamondPassRegistration
- /register?confirmationNumber\nDial-in: +91 22 6280 1524\, +91 22 7115 882
- 0\, +91 9322967676\, +91 9930572905\, +91 9820295726\nInvite: https://nse
- archives.nseindia.com/corporate/HUDCO_30102026183716_SE_DISCLOSURE.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber
-END:VEVENT
-BEGIN:VEVENT
-UID:VISHNU-202611061230@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T070000Z
-DURATION:PT1H
-SUMMARY:VISHNU Q2FY27 concall
-DESCRIPTION:Vishnu Chemicals Limited (VISHNU) Q2FY27 earnings call\nDial-i
- n: +91 22 6280 1325\, +91 22 7115 8226\, +91 22 66242480\nInvite: https:/
- /nsearchives.nseindia.com/corporate/VISHNU_31102026184746_VCL_Conference_
- Call_Q2FY27_Final_signed.pdf
-LOCATION:+91 22 6280 1325
-END:VEVENT
-BEGIN:VEVENT
-UID:ASHOKA-202611061300@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T073000Z
-DURATION:PT1H
-SUMMARY:ASHOKA Q2FY27 concall
-DESCRIPTION:Ashoka Buildcon Ltd. (ASHOKA) Q2FY27 earnings call\nDial-in: +
-  91 253 6633705\, +91 253 2236704\, +1 866 746 2133\nInvite: https://nsea
- rchives.nseindia.com/corporate/ASHOKA_31102026135036_ABL_Q2FY27_Concall_I
- nvite_061126.pdf
-LOCATION:+ 91 253 6633705
-END:VEVENT
-BEGIN:VEVENT
-UID:HITECH-202611061300@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T073000Z
-DURATION:PT1H
-SUMMARY:HITECH Q2FY27 concall
-DESCRIPTION:Hi-Tech Pipes Limited (HITECH) Q2FY27 earnings call\nJoin: htt
- ps://hitechpipes.in/wp-content/uploads/2026/11/10049039.mp3\nInvite: http
- s://nsearchives.nseindia.com/corporate/HITECH_06112026154009_Concall_Audi
- o_Link_Q2H1FY27.pdf
-URL:https://hitechpipes.in/wp-content/uploads/2026/11/10049039.mp3
-LOCATION:https://hitechpipes.in/wp-content/uploads/2026/11/10049039.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:SCHNEIDER-202611061300@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T073000Z
-DURATION:PT1H
-SUMMARY:SCHNEIDER Q2FY27 concall
-DESCRIPTION:Schneider Electric Infrastructure Ltd. (SCHNEIDER) Q2FY27 earn
- ings call\nDial-in: +91 9228078000\, +91 0266866200\, +91 22 6280 1146\, 
- +91 22 7115 8047\, +91 22 6164 8542\, +91 8879676477\, +91 22 6164 8500\,
-  +44 20 7486 9733\nInvite: https://nsearchives.nseindia.com/corporate/SCH
- NEIDER_02112026155852_ConferenceCallInviteNov2026.pdf
-LOCATION:+91 9228078000
-END:VEVENT
-BEGIN:VEVENT
-UID:AWHCL-202611061330@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T080000Z
-DURATION:PT1H
-SUMMARY:AWHCL Q2FY27 concall
-DESCRIPTION:Antony Waste Handling Cell Limited (AWHCL) Q2FY27 earnings cal
- l\nInvite: https://nsearchives.nseindia.com/corporate/AWHCLP_061120261732
- 58_AWHCLEarningcallAudiorecording06112026.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:EXCELINDUS-202611061330@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T080000Z
-DURATION:PT1H
-SUMMARY:EXCELINDUS Q2FY27 concall
-DESCRIPTION:Excel Industries Limited (EXCELINDUS) Q2FY27 earnings call\nDi
- al-in: +91 22 6280 1488\, +91 22 7115 8869\nInvite: https://nsearchives.n
- seindia.com/corporate/EXCELINDUS_02112026172645_Earning_call_intimation_s
- igned.pdf
-LOCATION:+91 22 6280 1488
-END:VEVENT
-BEGIN:VEVENT
-UID:VILAS-202611061330@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T080000Z
-DURATION:PT1H
-SUMMARY:VILAS H1FY27 concall
-DESCRIPTION:Vilas Transcore Limited (VILAS) H1FY27 earnings call (NSE Emer
- ge SME)\nJoin: https://www.vilastranscore.com/pdf/7/H1FY27%20EARNINGS%20C
- ALL%20AUDIO%20LINK.mp3\nInvite: https://nsearchives.nseindia.com/corporat
- e/VILAS_07112026150548_Draft_Investor_call_link_recording_signed.pdf
-URL:https://www.vilastranscore.com/pdf/7/H1FY27%20EARNINGS%20CALL%20AUDIO%
- 20LINK.mp3
-LOCATION:https://www.vilastranscore.com/pdf/7/H1FY27%20EARNINGS%20CALL%20A
- UDIO%20LINK.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:EIEL-202611061400@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T083000Z
-DURATION:PT1H
-SUMMARY:EIEL Q2FY27 concall
-DESCRIPTION:Enviro Infra Engineers Ltd. (EIEL) Q2FY27 earnings call\nDial-
- in: +91 22 6280 1102\, +91 22 7115 8003\nInvite: https://nsearchives.nsei
- ndia.com/corporate/ENVIRO_30102026145412_Investor_Meet_Intimation.pdf
-LOCATION:+91 22 6280 1102
-END:VEVENT
-BEGIN:VEVENT
-UID:IKIO-202611061400@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T083000Z
-DURATION:PT1H
-SUMMARY:IKIO Q2FY27 concall
-DESCRIPTION:IKIO Technologies Limited (IKIO) Q2FY27 earnings call\nDial-in
- : +91 22 62801256\nInvite: https://nsearchives.nseindia.com/corporate/IKI
- O_29102026180432_EarningcallQ2.pdf
-LOCATION:+91 22 62801256
-END:VEVENT
-BEGIN:VEVENT
-UID:KMEW-202611061400@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T083000Z
-DURATION:PT1H
-SUMMARY:KMEW Q2FY27 concall
-DESCRIPTION:Knowledge Marine & Engineering Works Ltd. (KMEW) Q2FY27 earnin
- gs call\nDial-in: +91 22 6280 1488\, +91 22 7115 8869\nInvite: https://ns
- earchives.nseindia.com/corporate/KMEW_02112026180332_Intimation_Investor_
- Call-s.pdf
-LOCATION:+91 22 6280 1488
-END:VEVENT
-BEGIN:VEVENT
-UID:SKP-202611061400@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T083000Z
-DURATION:PT1H
-SUMMARY:SKP H1FY27 concall
-DESCRIPTION:SKP Bearing Industries Limited (SKP) H1FY27 earnings call (NSE
-  Emerge SME)\nDial-in: +91-845 288 6099\nPasscode / ID: 858 9932 4622\nIn
- vite: https://nsearchives.nseindia.com/corporate/SKPBEARING_0211202618181
- 2_Concall_Intimation_coverletter_signed.pdf
-LOCATION:+91-845 288 6099
-END:VEVENT
-BEGIN:VEVENT
-UID:SONATSOFTW-202611061400@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T083000Z
-DURATION:PT1H
-SUMMARY:SONATSOFTW Q2FY27 concall
-DESCRIPTION:Sonata Software Ltd. (SONATSOFTW) Q2FY27 earnings call\nJoin: 
- https://zoom.us/webinar/register/WN_qyH60wHDSZGR2mV3bHbR_Q | https://vcno
- w.live/portal/event/sonata-software-limited-q2-fy27-earnings-call\nDial-i
- n: Option 2 – audio only: pre-register at https://vcnow.live/portal/eve
- nt/sonata-software-limited-q2-fy27-earnings-call\; dial-in number provide
- d on the confirmation email\nPasscode / ID: and dial in number o\nInvite:
-  https://nsearchives.nseindia.com/corporate/SONATSOFTW_30102026153844_SEi
- ntimationanalystcall.pdf
-URL:https://zoom.us/webinar/register/WN_qyH60wHDSZGR2mV3bHbR_Q
-LOCATION:https://zoom.us/webinar/register/WN_qyH60wHDSZGR2mV3bHbR_Q
-END:VEVENT
-BEGIN:VEVENT
-UID:AKIKO-202611061430@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T090000Z
-DURATION:PT1H
-SUMMARY:AKIKO H1FY27 concall
-DESCRIPTION:Akiko Global Services Limited (AKIKO) H1FY27 earnings call (NS
- E Emerge SME)\nDial-in: +91 22 6280 1488\, +91 22 7115 8869\, +91 95944 5
- 7518\, +91 8850595811\nInvite: https://nsearchives.nseindia.com/corporate
- /AKIKOGLOBAL_03112026163210_signedInvestormeetnovermber.pdf
-LOCATION:+91 22 6280 1488
-END:VEVENT
-BEGIN:VEVENT
-UID:GREENLAM-202611061430@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T090000Z
-DURATION:PT1H
-SUMMARY:GREENLAM Q2FY27 concall
-DESCRIPTION:Greenlam Industries Limited (GREENLAM) Q2FY27 earnings call\nD
- ial-in: +91 22 6280 1309\, +91 22 7115 8210\, Hong Kong: 800 964 448\, Si
- ngapore: 800 101 2045\, UK: 0 808 101 1573\, USA: 1 866 746 2133\nInvite:
-  https://nsearchives.nseindia.com/corporate/GREENLAMAW_30102026151816_Ear
- ning_Call_Intimation_Q2_FY_27.pdf
-LOCATION:+91 22 6280 1309
-END:VEVENT
-BEGIN:VEVENT
-UID:TCPLPACK-202611061430@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T090000Z
-DURATION:PT1H
-SUMMARY:TCPLPACK Q2FY27 concall
-DESCRIPTION:TCPL Packaging Limited (TCPLPACK) Q2FY27 earnings call\nJoin: 
- https://www.tcpl.in/wp-content/uploads/2026/11/TCPL-Q2-H1-FY27-Earnings-C
- all-Audio.mp3\nInvite: https://nsearchives.nseindia.com/corporate/TCPLPAC
- K_06112026165912_Conference_Call_recording.pdf
-URL:https://www.tcpl.in/wp-content/uploads/2026/11/TCPL-Q2-H1-FY27-Earning
- s-Call-Audio.mp3
-LOCATION:https://www.tcpl.in/wp-content/uploads/2026/11/TCPL-Q2-H1-FY27-Ea
- rnings-Call-Audio.mp3
-END:VEVENT
-BEGIN:VEVENT
-UID:ADFFOODS-202611061530@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T100000Z
-DURATION:PT1H
-SUMMARY:ADFFOODS Q2FY27 concall
-DESCRIPTION:ADF Foods Limited (ADFFOODS) Q2FY27 earnings call\nDial-in: +9
- 1 268 2551381\, +91 268 2565068\, +91 22 6141 5555\, +91 22 6141 5577\nIn
- vite: https://nsearchives.nseindia.com/corporate/ADFFOODS1_06112026211751
- _EarningsCallAudioRecording06112026.pdf
-LOCATION:+91 268 2551381
-END:VEVENT
-BEGIN:VEVENT
-UID:IGPL-202611061530@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T100000Z
-DURATION:PT1H
-SUMMARY:IGPL Q2FY27 concall
-DESCRIPTION:IG Petrochemicals Limited (IGPL) Q2FY27 earnings call\nDial-in
- : +91 22 6280 1309\, +91 22 7115 8210\, +91 8454951156\, +91 9819494608\n
- Invite: https://nsearchives.nseindia.com/corporate/IGPL_02112026205033_SE
- INtimation_AnalystCall_06112026.pdf
-LOCATION:+91 22 6280 1309
-END:VEVENT
-BEGIN:VEVENT
-UID:LINC-202611061530@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T100000Z
-DURATION:PT1H
-SUMMARY:LINC Q2FY27 concall
-DESCRIPTION:Linc Limited (LINC) Q2FY27 earnings call\nJoin: https://events
- .teams.microsoft.com/event/090b73e1-4dc7-4b55-9534-19abe37b37d2@a53a594b-
- 1601-46e3-bc1d-3920507bdfae\nDial-in: +91 98200 27446\, +91 98308 96666\n
- Invite: https://nsearchives.nseindia.com/corporate/DIPANKARDE_03112026121
- 851_Con_Call_Q2_2627_S.pdf
-URL:https://events.teams.microsoft.com/event/090b73e1-4dc7-4b55-9534-19abe
- 37b37d2@a53a594b-1601-46e3-bc1d-3920507bdfae
-LOCATION:https://events.teams.microsoft.com/event/090b73e1-4dc7-4b55-9534-
- 19abe37b37d2@a53a594b-1601-46e3-bc1d-3920507bdfae
-END:VEVENT
-BEGIN:VEVENT
-UID:MANYAVAR-202611061530@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T100000Z
-DURATION:PT1H
-SUMMARY:MANYAVAR Q2FY27 concall
-DESCRIPTION:Vedant Fashions Ltd. (MANYAVAR) Q2FY27 earnings call\nDial-in:
-  +91 3361255353\, +91 22 6280 1259\, +91 22 7115 8160\, +91 88791 16138\n
- Invite: https://nsearchives.nseindia.com/corporate/MANYAVAR_3110202621233
- 8_VFLIntiConCallSch31102026.pdf
-LOCATION:+91 3361255353
-END:VEVENT
-BEGIN:VEVENT
-UID:ABFRL-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:ABFRL Q2FY27 concall
-DESCRIPTION:Aditya Birla Fashion and Retail Ltd. (ABFRL) Q2FY27 earnings c
- all\nJoin: https://services.choruscall.in/DiamondPassRegistration/registe
- r?confirmationNumber=2864280&linkSecurityString=193e16c608\nDial-in: +91 
- 86529 05000\, +91 86529 05400\, +91 22 6280 1127\, +91 22 7115 8028\, + 8
- 00 101 2045\, + 800 964 448\, + 0 808 101 1573\, + 1 866 746 2133\nInvite
- : https://nsearchives.nseindia.com/corporate/ABFRL_01112026155956_SE-F.pd
- f
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=2864280&linkSecurityString=193e16c608
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=2864280&linkSecurityString=193e16c608
-END:VEVENT
-BEGIN:VEVENT
-UID:BASILIC-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:BASILIC H1FY27 concall
-DESCRIPTION:Basilic Fly Studio Limited (BASILIC) H1FY27 earnings call (NSE
-  Emerge SME)\nDial-in: +91-22-35075100\, +91 22 6280 1341\, +91 22 7115 8
- 242\nInvite: https://nsearchives.nseindia.com/corporate/BASILIC_291020261
- 81132_EarningsCall_Intimation.pdf
-LOCATION:+91-22-35075100
-END:VEVENT
-BEGIN:VEVENT
-UID:CHOLAHLDNG-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:CHOLAHLDNG Q2FY27 concall
-DESCRIPTION:Cholamandalam Financial Holdings Ltd. (CHOLAHLDNG) Q2FY27 earn
- ings call\nJoin: https://www.cholafhl.com/investors/investor-meet\nInvite
- : https://nsearchives.nseindia.com/corporate/9500179438_06112026193508_SE
- Intimation.pdf
-URL:https://www.cholafhl.com/investors/investor-meet
-LOCATION:https://www.cholafhl.com/investors/investor-meet
-END:VEVENT
-BEGIN:VEVENT
-UID:CMRGREEN-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:CMRGREEN Q2FY27 concall
-DESCRIPTION:CMR Green Technologies Ltd. (CMRGREEN) Q2FY27 earnings call\nJ
- oin: https://services.choruscall.in/DiamondPassRegistration/register?conf
- irmationNumber=63\nDial-in: +91-129-4223050\, +91 22 6280 1488\, +91 22 7
- 115 8869\nInvite: https://nsearchives.nseindia.com/corporate/CMRGREEN_061
- 12026194419_Investors_Call_Notice_Intimation_-_Revised.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=63
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=63
-END:VEVENT
-BEGIN:VEVENT
-UID:ELGIEQUIP-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:ELGIEQUIP Q2FY27 concall
-DESCRIPTION:Elgi Equipments Ltd. (ELGIEQUIP) Q2FY27 earnings call\nDial-in
- : 022 4343 5000\nInvite: https://nsearchives.nseindia.com/corporate/ELGIE
- QUIP_28102026162315_InvestorConcallPriorintimation.pdf
-LOCATION:022 4343 5000
-END:VEVENT
-BEGIN:VEVENT
-UID:GALAPREC-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:GALAPREC Q2FY27 concall
-DESCRIPTION:Gala Precision Engineering Limited (GALAPREC) Q2FY27 earnings 
- call\nDial-in: +91 22 6280 1466\, +91 22 7115 8826\, +91 22 4225 4871\, +
- 91 85913 10591\, +91 22 6711 4870\, +91 9773821447\nInvite: https://nsear
- chives.nseindia.com/corporate/GALAPRE_30102026170006_Earnings_call_Intima
- tion.pdf
-LOCATION:+91 22 6280 1466
-END:VEVENT
-BEGIN:VEVENT
-UID:GODREJAGRO-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:GODREJAGRO Q2FY27 concall
-DESCRIPTION:Godrej Agrovet Ltd. (GODREJAGRO) Q2FY27 earnings call\nDial-in
- : +91 22 6280 1144\, +91 22 7115 8045\, +91 22 6807 7274\, +91 22 6807 73
- 86\, +91 22 6807 7334\, +91 9871116926\, +91 22 6807 7454\nInvite: https:
- //nsearchives.nseindia.com/corporate/GODREJAGRO_28102026163918_BSENSECONC
- ALLINVITE.pdf
-LOCATION:+91 22 6280 1144
-END:VEVENT
-BEGIN:VEVENT
-UID:HONASA-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:HONASA Q2FY27 concall
-DESCRIPTION:Honasa Consumer Ltd. (HONASA) Q2FY27 earnings call\nDial-in: +
- 91 22 6280 1366\, +91 22 7115 8267\, +91-22-6630 3065\, +91-22-6630 3074\
- , +9122 6630 3030\, +91 22 6630 3488\, +91 22 6224 1862\nInvite: https://
- nsearchives.nseindia.com/corporate/HONASA16_29102026142722_IntimationofIn
- vestorConferenceCall_S.pdf
-LOCATION:+91 22 6280 1366
-END:VEVENT
-BEGIN:VEVENT
-UID:LGEINDIA-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:LGEINDIA Q2FY27 concall
-DESCRIPTION:LG Electronics India Ltd. (LGEINDIA) Q2FY27 earnings call\nDia
- l-in: +91 22 6280 1384\, +91 22 7115 8285\, +91 22 4202 2592\nPasscode / 
- ID: link\nInvite: https://nsearchives.nseindia.com/corporate/LGEINDIA_281
- 02026161925_Earning_Call_Intimation.pdf
-LOCATION:+91 22 6280 1384
-END:VEVENT
-BEGIN:VEVENT
-UID:SUDARSCHEM-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:SUDARSCHEM Q2FY27 concall
-DESCRIPTION:Sudarshan Chemical Industries Ltd. (SUDARSCHEM) Q2FY27 earning
- s call\nDial-in: +91 20 6828 1200\nInvite: https://nsearchives.nseindia.c
- om/corporate/SUDARSCHEM_06112026145629_SUDARSHANInvestorPresentationSept2
- 026SIGNED.pdf
-LOCATION:+91 20 6828 1200
-END:VEVENT
-BEGIN:VEVENT
-UID:TIMETECHNO-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:TIMETECHNO Q2FY27 concall
-DESCRIPTION:Time Technoplast Ltd. (TIMETECHNO) Q2FY27 earnings call\nJoin:
-  https://services.choruscall.in/DiamondPassRegi\nDial-in: +91 22 6280 120
- 2\nInvite: https://nsearchives.nseindia.com/corporate/TIMETECHNO_31102026
- 151306_Intimation31102026.pdf
-URL:https://services.choruscall.in/DiamondPassRegi
-LOCATION:https://services.choruscall.in/DiamondPassRegi
-END:VEVENT
-BEGIN:VEVENT
-UID:TTKPRESTIG-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:TTKPRESTIG Q2FY27 concall
-DESCRIPTION:TTK Prestige Ltd. (TTKPRESTIG) Q2FY27 earnings call\nJoin: htt
- ps://services.choruscall.in/DiamondPassRegistration/register?confirmation
- Number=0455833&linkS\nDial-in: +91 22 6280 1148\, +91 22 7115 8049\, +91 
- 22 4031 7263\, +91 98199 15900\nInvite: https://nsearchives.nseindia.com/
- corporate/TTKPRESTIG1_15102026170945_SE_Intimation_EarningCall_11062026_s
- igned.pdf
-URL:https://services.choruscall.in/DiamondPassRegistration/register?confir
- mationNumber=0455833&linkS
-LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
- onfirmationNumber=0455833&linkS
-END:VEVENT
-BEGIN:VEVENT
-UID:UGROCAP-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:UGROCAP Q2FY27 concall
-DESCRIPTION:Ugro Capital Limited (UGROCAP) Q2FY27 earnings call\nDial-in: 
- +91 22 68269100\, +91 22 6280 1466\, +91 22 7115 8826\, +91 22 4225 4871\
- , +91 99208 69996\, +91 22 6711 4870\, +91 6375931935\nInvite: https://ns
- earchives.nseindia.com/corporate/UGROCAP_29102026152053_Intimationearning
- call.pdf
-LOCATION:+91 22 68269100
-END:VEVENT
-BEGIN:VEVENT
-UID:VTL-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:VTL Q2FY27 concall
-DESCRIPTION:Vardhman Textiles Ltd. (VTL) Q2FY27 earnings call\nInvite: htt
- ps://nsearchives.nseindia.com/corporate/VTL_06112026180910_VTXL_sd.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:WABAG-202611061600@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T103000Z
-DURATION:PT1H
-SUMMARY:WABAG Q2FY27 concall
-DESCRIPTION:Va Tech Wabag Ltd. (WABAG) Q2FY27 earnings call\nDial-in: +91 
- 22 6280 1102\, +91 22 7115 8003\, +91 80821 80182\nInvite: https://nsearc
- hives.nseindia.com/corporate/VATECH_03112026152821_SIConcallInvite.pdf
-LOCATION:+91 22 6280 1102
-END:VEVENT
-BEGIN:VEVENT
-UID:HINDALCO-202611061630@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T110000Z
-DURATION:PT1H
-SUMMARY:HINDALCO Q2FY27 concall
-DESCRIPTION:Hindalco Industries Ltd. (HINDALCO) Q2FY27 earnings call\nDial
- -in: +91 22 69477000\, +91 2269477001\, + 91 22 69477000\nInvite: https:/
- /nsearchives.nseindia.com/corporate/HINDALCOIND_30102026153337_Hindalco_E
- arnings_call_intimation_Merged_signed.pdf
-LOCATION:+91 22 69477000
-END:VEVENT
-BEGIN:VEVENT
-UID:PGIL-202611061630@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T110000Z
-DURATION:PT1H
-SUMMARY:PGIL Q2FY27 concall
-DESCRIPTION:Pearl Global Industries Ltd. (PGIL) Q2FY27 earnings call\nDial
- -in: +91-124-4651000\, +91 22 6280 1309\, +91 22 7115 8210\, +91 99854500
- 22\, +91 9833105108\, +91 8169962562\nInvite: https://nsearchives.nseindi
- a.com/corporate/PGIL_30102026201314_IntimationInvestorCall.pdf
-LOCATION:+91-124-4651000
-END:VEVENT
-BEGIN:VEVENT
-UID:AIMTRON-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:AIMTRON H1FY27 concall
-DESCRIPTION:Aimtron Electronics Limited (AIMTRON) H1FY27 earnings call (NS
- E Emerge SME)\nDial-in: +91-845 288 6099\nPasscode / ID: 838 9132 8531\nI
- nvite: https://nsearchives.nseindia.com/corporate/AIMTRON_03112026193231_
- Post_Earnings_Concall_Intimation_03-11-2026.pdf
-LOCATION:+91-845 288 6099
-END:VEVENT
-BEGIN:VEVENT
-UID:ANURAS-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:ANURAS Q2FY27 concall
-DESCRIPTION:Anupam Rasayan India Ltd. (ANURAS) Q2FY27 earnings call\nDial-
- in: +91-261-2398991\, +91-261-2398996\nInvite: https://nsearchives.nseind
- ia.com/corporate/ANURAS_06112026200036_ARILSLDSTX20261106079AudioRecordin
- g.pdf
-LOCATION:+91-261-2398991
-END:VEVENT
-BEGIN:VEVENT
-UID:JUBLFOOD-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:JUBLFOOD Q2FY27 concall
-DESCRIPTION:Jubilant Foodworks Ltd. (JUBLFOOD) Q2FY27 earnings call\nDial-
- in: +91 22 6280 1818\, +91 22 7115 8275\nInvite: https://nsearchives.nsei
- ndia.com/corporate/JUBLFOOD_28102026190627_SEConcallQ2FY27.pdf
-LOCATION:+91 22 6280 1818
-END:VEVENT
-BEGIN:VEVENT
-UID:RATNAMANI-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:RATNAMANI Q2FY27 concall
-DESCRIPTION:Ratnamani Metals & Tubes Ltd. (RATNAMANI) Q2FY27 earnings call
- \nJoin: https://www.ratnamani.com/investors_relations.html#left-tab4\nInv
- ite: https://nsearchives.nseindia.com/corporate/RATNAMANI_06112026182309_
- RMTLCONCALLRECORD06112026.pdf
-URL:https://www.ratnamani.com/investors_relations.html#left-tab4
-LOCATION:https://www.ratnamani.com/investors_relations.html#left-tab4
-END:VEVENT
-BEGIN:VEVENT
-UID:SIGMAADV-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:SIGMAADV Q2FY27 concall
-DESCRIPTION:SIGMA ADVANCED SYSTEMS LTD. (SIGMAADV) Q2FY27 earnings call\nD
- ial-in: +91 22 6280 1557\, +91 22 7115 8383\nInvite: https://nsearchives.
- nseindia.com/corporate/MEGASOFT_03112026153806_ANALYSTMEETINTIMATION06112
- 026.pdf
-LOCATION:+91 22 6280 1557
-END:VEVENT
-BEGIN:VEVENT
-UID:SUPRIYA-202611061700@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T113000Z
-DURATION:PT1H
-SUMMARY:SUPRIYA Q2FY27 concall
-DESCRIPTION:Supriya Lifescience Ltd. (SUPRIYA) Q2FY27 earnings call\nDial-
- in: +91 22 26860011\, +91 2356 272299\, +91 2356 272178\, +91 22 6280 110
- 7\, +91 22 7115 8008\nInvite: https://nsearchives.nseindia.com/corporate/
- SUPRIYA_31102026153717_SEIntimationEarCall311026.pdf
-LOCATION:+91 22 26860011
-END:VEVENT
-BEGIN:VEVENT
-UID:ANUP-202611061730@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T120000Z
-DURATION:PT1H
-SUMMARY:ANUP Q2FY27 concall
-DESCRIPTION:The Anup Engineering Limited (ANUP) Q2FY27 earnings call\nJoin
- : https://www.anupengg.com/outcome-of-conference-call-with-analysts-inves
- tors-audio-recording/\nInvite: https://nsearchives.nseindia.com/corporate
- /ANUP_06112026200805_IntimationEarningCallAudio.pdf
-URL:https://www.anupengg.com/outcome-of-conference-call-with-analysts-inve
- stors-audio-recording/
-LOCATION:https://www.anupengg.com/outcome-of-conference-call-with-analysts
- -investors-audio-recording/
-END:VEVENT
-BEGIN:VEVENT
-UID:ASTERDM-202611061800@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T123000Z
-DURATION:PT1H
-SUMMARY:ASTERDM Q2FY27 concall
-DESCRIPTION:Aster DM Quality Care Ltd. (ASTERDM) Q2FY27 earnings call\nDia
- l-in: +91 96060 61833\nInvite: https://nsearchives.nseindia.com/corporate
- /ASTERDM2_28102026190707_SE.pdf
-LOCATION:+91 96060 61833
-END:VEVENT
-BEGIN:VEVENT
-UID:CARRARO-202611061800@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T123000Z
-DURATION:PT1H
-SUMMARY:CARRARO Q2FY27 concall
-DESCRIPTION:Carraro India Limited (CARRARO) Q2FY27 earnings call\nJoin: ht
- tps://www.carraroindia.com/investors/investor-information/audio-recording
- s\nInvite: https://nsearchives.nseindia.com/corporate/CARRARO_06112026205
- 627_CILQ2FY26IntimationofAudioRecordingsofInvestorcall_S.pdf
-URL:https://www.carraroindia.com/investors/investor-information/audio-reco
- rdings
-LOCATION:https://www.carraroindia.com/investors/investor-information/audio
- -recordings
-END:VEVENT
-BEGIN:VEVENT
-UID:COHANCE-202611061800@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T123000Z
-DURATION:PT1H
-SUMMARY:COHANCE Q2FY27 concall
-DESCRIPTION:Cohance Lifesciences Ltd. (COHANCE) Q2FY27 earnings call\nDial
- -in: +91 22 6280 1141\, +91 22 7115 8042\, +91 98206 37649\, +91 76619 08
- 341\nPasscode / ID: and a pin for the co\nInvite: https://nsearchives.nse
- india.com/corporate/SUVENPHARMSUSHEEL_03112026193202_Cohance_Q2_Concal_In
- vite_06112026_.pdf
-LOCATION:+91 22 6280 1141
-END:VEVENT
-BEGIN:VEVENT
-UID:BOSCHLTD-202611061811@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T124100Z
-DURATION:PT1H
-SUMMARY:BOSCHLTD Q2FY27 concall
-DESCRIPTION:Bosch Ltd. (BOSCHLTD) Q2FY27 earnings call\nDial-in: +91 92621
- 06162\nInvite: https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_06
- 112026191656_L2SEEarningscalloutcomeNov2026.pdf
-LOCATION:+91 9262106162
-END:VEVENT
-BEGIN:VEVENT
-UID:KIRIINDUS-202611061811@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T124100Z
-DURATION:PT1H
-SUMMARY:KIRIINDUS Q2FY27 concall
-DESCRIPTION:Kiri Industries Limited (KIRIINDUS) Q2FY27 earnings call\nDial
- -in: +91 22 6280 1341\, +91 22 7115 8242\nInvite: https://nsearchives.nse
- india.com/corporate/KIRIINDUS_29102026175103_Earning_Conference_Call_Inti
- mation_S.pdf
-LOCATION:+91 22 6280 1341
-END:VEVENT
-BEGIN:VEVENT
-UID:ORIENTBELL-202611061811@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T124100Z
-DURATION:PT1H
-SUMMARY:ORIENTBELL Q2FY27 concall
-DESCRIPTION:Orient Bell Limited (ORIENTBELL) Q2FY27 earnings call\nDial-in
- : +91 22 6280 1256\, +91 22 7115 8157\, +91 22 6239 8024\nInvite: https:/
- /nsearchives.nseindia.com/corporate/ORIENTBELL_06112026181711_coverings.p
- df
-LOCATION:+91 22 6280 1256
-END:VEVENT
-BEGIN:VEVENT
-UID:VILAS-202611061811@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T124100Z
-DURATION:PT1H
-SUMMARY:VILAS H1FY27 concall
-DESCRIPTION:Vilas Transcore Limited (VILAS) H1FY27 earnings call (NSE Emer
- ge SME)\nDial-in: +91 22 6280 1143\, +91 22 7115 8044\nInvite: https://ns
- earchives.nseindia.com/corporate/VILAS_31102026143308_Intimation_of_Inves
- tor_Meet_06112026.pdf
-LOCATION:+91 22 6280 1143
-END:VEVENT
-BEGIN:VEVENT
-UID:COHANCE-202611061830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T130000Z
-DURATION:PT1H
-SUMMARY:COHANCE Q2FY27 concall
-DESCRIPTION:Cohance Lifesciences Ltd. (COHANCE) Q2FY27 earnings call\nDial
- -in: +91 22 6280 1141\, +91 22 7115 8042\, +91 98206 37649\, +91 76619 08
- 341\nPasscode / ID: and a pin for the co\nInvite: https://nsearchives.nse
- india.com/corporate/SUVENPHARMSUSHEEL_27102026125928_Cohance_Q2_Concal_In
- vite_06112026_.pdf
-LOCATION:+91 22 6280 1141
-END:VEVENT
-BEGIN:VEVENT
-UID:GLAND-202611061830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T130000Z
-DURATION:PT1H
-SUMMARY:GLAND Q2FY27 concall
-DESCRIPTION:Gland Pharma Ltd. (GLAND) Q2FY27 earnings call\nDial-in: +91-4
- 0-30510999\, +91-8455-699999\nInvite: https://nsearchives.nseindia.com/co
- rporate/GLAND_06112026221702_EarningsCallRecordingQ2FY2027.pdf
-LOCATION:+91-40-30510999
-END:VEVENT
-BEGIN:VEVENT
-UID:VOLTAS-202611061830@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T130000Z
-DURATION:PT1H
-SUMMARY:VOLTAS Q2FY27 concall
-DESCRIPTION:Voltas Ltd. (VOLTAS) Q2FY27 earnings call\nDial-in: +91 22 628
- 0 1145\, +91 22 7115 8046\, +91 9076554158\, +91 8169808465\nInvite: http
- s://nsearchives.nseindia.com/corporate/VOLTAS_RB_03112026173122_SE_Intima
- tion.pdf
-LOCATION:+91 22 6280 1145
-END:VEVENT
-BEGIN:VEVENT
-UID:SAFEENTP-202611061900@results-tracker
-DTSTAMP:20261113T174141Z
-DTSTART:20261106T133000Z
-DURATION:PT1H
-SUMMARY:SAFEENTP H1FY27 concall
-DESCRIPTION:Safe Enterprises Retail Fixtures Limited (SAFEENTP) H1FY27 ear
- nings call (NSE Emerge SME)\nDial-in: +91-7021883016\, +91 22 6280 1143\,
-  +91 22 7115 8044\nInvite: https://nsearchives.nseindia.com/corporate/SAF
- EENTERPRISES_30102026185207_Earning_call_Intimation_06112026.pdf
-LOCATION:+91-7021883016
-END:VEVENT
-BEGIN:VEVENT
 UID:COHANCE-202611070000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261106T183000Z
 DURATION:PT1H
 SUMMARY:COHANCE Q2FY27 concall
@@ -1510,7 +19,7 @@ DESCRIPTION:Cohance Lifesciences Ltd. (COHANCE) Q2FY27 earnings call\nInvi
 END:VEVENT
 BEGIN:VEVENT
 UID:HCG-202611070000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261106T183000Z
 DURATION:PT1H
 SUMMARY:HCG Q2FY27 concall
@@ -1520,7 +29,7 @@ DESCRIPTION:Healthcare Global Enterprises Ltd. (HCG) Q2FY27 earnings call\
 END:VEVENT
 BEGIN:VEVENT
 UID:SDREAMS-202611070000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261106T183000Z
 DURATION:PT1H
 SUMMARY:SDREAMS H1FY27 concall
@@ -1533,7 +42,7 @@ LOCATION:https://www.sweetdreams.in/pages/earnings-call-h1-fy27
 END:VEVENT
 BEGIN:VEVENT
 UID:TATACHEM-202611070000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261106T183000Z
 DURATION:PT1H
 SUMMARY:TATACHEM Q2FY27 concall
@@ -1543,7 +52,7 @@ DESCRIPTION:Tata Chemicals Ltd. (TATACHEM) Q2FY27 earnings call\nInvite: h
 END:VEVENT
 BEGIN:VEVENT
 UID:FOODSIN-202611071100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T053000Z
 DURATION:PT1H
 SUMMARY:FOODSIN Q2FY27 concall
@@ -1556,7 +65,7 @@ LOCATION:+91-22-23533104
 END:VEVENT
 BEGIN:VEVENT
 UID:AZAD-202611071200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T063000Z
 DURATION:PT1H
 SUMMARY:AZAD Q2FY27 concall
@@ -1568,7 +77,7 @@ LOCATION:+91 9819282743
 END:VEVENT
 BEGIN:VEVENT
 UID:TATASTEEL-202611071400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T083000Z
 DURATION:PT1H
 SUMMARY:TATASTEEL Q2FY27 concall
@@ -1584,7 +93,7 @@ LOCATION:https://www.youtube.com/user/Thetatasteel/
 END:VEVENT
 BEGIN:VEVENT
 UID:SDREAMS-202611071500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T093000Z
 DURATION:PT1H
 SUMMARY:SDREAMS H1FY27 concall
@@ -1596,7 +105,7 @@ LOCATION:+91 22 4100 2455
 END:VEVENT
 BEGIN:VEVENT
 UID:SURYAROSNI-202611071530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T100000Z
 DURATION:PT1H
 SUMMARY:SURYAROSNI Q2FY27 concall
@@ -1607,7 +116,7 @@ LOCATION:+91-11-47108000
 END:VEVENT
 BEGIN:VEVENT
 UID:TATACHEM-202611071730@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T120000Z
 DURATION:PT1H
 SUMMARY:TATACHEM Q2FY27 concall
@@ -1619,7 +128,7 @@ LOCATION:+91 22 6280 1543
 END:VEVENT
 BEGIN:VEVENT
 UID:TECHNOE-202611071911@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261107T134100Z
 DURATION:PT1H
 SUMMARY:TECHNOE Q2FY27 concall
@@ -1631,7 +140,7 @@ LOCATION:+91-12-44592550
 END:VEVENT
 BEGIN:VEVENT
 UID:NUVAMA-202611090000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261108T183000Z
 DURATION:PT1H
 SUMMARY:NUVAMA Q2FY27 concall
@@ -1642,7 +151,7 @@ LOCATION:+91 22 6620 3030
 END:VEVENT
 BEGIN:VEVENT
 UID:DATAPATTNS-202611091100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261109T053000Z
 DURATION:PT1H
 SUMMARY:DATAPATTNS Q2FY27 concall
@@ -1658,7 +167,7 @@ LOCATION:https://www.datapatternsindia.com/investors/files/Earnings-Call-R
 END:VEVENT
 BEGIN:VEVENT
 UID:ANAWIL-202611091200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261109T063000Z
 DURATION:PT1H
 SUMMARY:ANAWIL H1FY27 concall
@@ -1670,7 +179,7 @@ LOCATION:+91-8141780694
 END:VEVENT
 BEGIN:VEVENT
 UID:RADIOWALLA-202611091600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261109T103000Z
 DURATION:PT1H
 SUMMARY:RADIOWALLA H1FY27 concall
@@ -1682,7 +191,7 @@ LOCATION:+91-80-44999999
 END:VEVENT
 BEGIN:VEVENT
 UID:PIRAMALFIN-202611100000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261109T183000Z
 DURATION:PT1H
 SUMMARY:PIRAMALFIN Q2FY27 concall
@@ -1694,7 +203,7 @@ LOCATION:+91 22 6280 1264
 END:VEVENT
 BEGIN:VEVENT
 UID:UTLSOLAR-202611101200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T063000Z
 DURATION:PT1H
 SUMMARY:UTLSOLAR Q2FY27 concall
@@ -1704,7 +213,7 @@ DESCRIPTION:Fujiyama Power Systems Ltd. (UTLSOLAR) Q2FY27 earnings call\nI
 END:VEVENT
 BEGIN:VEVENT
 UID:KALYANKJIL-202611101700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T113000Z
 DURATION:PT1H
 SUMMARY:KALYANKJIL Q2FY27 concall
@@ -1716,7 +225,7 @@ LOCATION:+91 9821438864
 END:VEVENT
 BEGIN:VEVENT
 UID:HIRECT-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:HIRECT Q2FY27 concall
@@ -1726,7 +235,7 @@ DESCRIPTION:Hirect Limited (HIRECT) Q2FY27 earnings call\nInvite: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:KALYANKJIL-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:KALYANKJIL Q2FY27 concall
@@ -1736,7 +245,7 @@ DESCRIPTION:Kalyan Jewellers India Ltd. (KALYANKJIL) Q2FY27 earnings call\
 END:VEVENT
 BEGIN:VEVENT
 UID:LEMONTREE-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:LEMONTREE Q2FY27 concall
@@ -1747,7 +256,7 @@ LOCATION:+91 9911 701 701
 END:VEVENT
 BEGIN:VEVENT
 UID:MDL-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:MDL H1FY27 concall
@@ -1759,7 +268,7 @@ LOCATION:https://www.youtube.com/watch?v=yyEawLJPghI
 END:VEVENT
 BEGIN:VEVENT
 UID:MIDWESTLTD-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:MIDWESTLTD Q2FY27 concall
@@ -1769,7 +278,7 @@ DESCRIPTION:Midwest Limited (MIDWESTLTD) Q2FY27 earnings call\nInvite: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:PRITIKAUTO-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:PRITIKAUTO Q2FY27 concall
@@ -1779,7 +288,7 @@ DESCRIPTION:Pritika Auto Industries Limited (PRITIKAUTO) Q2FY27 earnings c
 END:VEVENT
 BEGIN:VEVENT
 UID:ROXHITECH-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:ROXHITECH H1FY27 concall
@@ -1789,7 +298,7 @@ DESCRIPTION:Rox Hi Tech Limited (ROXHITECH) H1FY27 earnings call (NSE Emer
 END:VEVENT
 BEGIN:VEVENT
 UID:TATAPOWER-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:TATAPOWER Q2FY27 concall
@@ -1799,7 +308,7 @@ DESCRIPTION:Tata Power Co. Ltd. (TATAPOWER) Q2FY27 earnings call\nInvite:
 END:VEVENT
 BEGIN:VEVENT
 UID:VISHNUINFR-202611110000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261110T183000Z
 DURATION:PT1H
 SUMMARY:VISHNUINFR H1FY27 concall
@@ -1811,7 +320,7 @@ LOCATION:+91-44-24950019
 END:VEVENT
 BEGIN:VEVENT
 UID:KALYANKJIL-202611110830@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T030000Z
 DURATION:PT1H
 SUMMARY:KALYANKJIL Q2FY27 concall
@@ -1823,7 +332,7 @@ LOCATION:+91 9821438864
 END:VEVENT
 BEGIN:VEVENT
 UID:DENTALKART-202611111000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T043000Z
 DURATION:PT1H
 SUMMARY:DENTALKART H1FY27 concall
@@ -1839,7 +348,7 @@ LOCATION:https://r2dkmedia.dentalkart.com/media/investor/documents/d7f17fb
 END:VEVENT
 BEGIN:VEVENT
 UID:HIRECT-202611111000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T043000Z
 DURATION:PT1H
 SUMMARY:HIRECT Q2FY27 concall
@@ -1851,7 +360,7 @@ LOCATION:+91 22 6280 1309
 END:VEVENT
 BEGIN:VEVENT
 UID:PARKHOSPS-202611111000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T043000Z
 DURATION:PT1H
 SUMMARY:PARKHOSPS Q2FY27 concall
@@ -1867,7 +376,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:VISHNUINFR-202611111100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T053000Z
 DURATION:PT1H
 SUMMARY:VISHNUINFR H1FY27 concall
@@ -1884,7 +393,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:RVNL-202611111111@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T054100Z
 DURATION:PT1H
 SUMMARY:RVNL Q2FY27 concall
@@ -1895,7 +404,7 @@ LOCATION:+91-11-26738299
 END:VEVENT
 BEGIN:VEVENT
 UID:VIKRAMSOLR-202611111111@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T054100Z
 DURATION:PT1H
 SUMMARY:VIKRAMSOLR Q2FY27 concall
@@ -1906,7 +415,7 @@ LOCATION:+91 22 6280 1107
 END:VEVENT
 BEGIN:VEVENT
 UID:PRITIKAUTO-202611111130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T060000Z
 DURATION:PT1H
 SUMMARY:PRITIKAUTO Q2FY27 concall
@@ -1923,7 +432,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:MDL-202611111200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T063000Z
 DURATION:PT1H
 SUMMARY:MDL H1FY27 concall
@@ -1934,7 +443,7 @@ LOCATION:+91-845 288 6099
 END:VEVENT
 BEGIN:VEVENT
 UID:TEXRAIL-202611111200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T063000Z
 DURATION:PT1H
 SUMMARY:TEXRAIL Q2FY27 concall
@@ -1947,7 +456,7 @@ LOCATION:https://www.texmaco.in/investors-relation/corporate-announcement/
 END:VEVENT
 BEGIN:VEVENT
 UID:MIDWESTLTD-202611111500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T093000Z
 DURATION:PT1H
 SUMMARY:MIDWESTLTD Q2FY27 concall
@@ -1957,7 +466,7 @@ DESCRIPTION:Midwest Limited (MIDWESTLTD) Q2FY27 earnings call\nInvite: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:GESHIP-202611111600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T103000Z
 DURATION:PT1H
 SUMMARY:GESHIP Q2FY27 concall
@@ -1967,7 +476,7 @@ DESCRIPTION:Great Eastern Shipping Co. Ltd. (GESHIP) Q2FY27 earnings call\
 END:VEVENT
 BEGIN:VEVENT
 UID:LEMONTREE-202611111600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T103000Z
 DURATION:PT1H
 SUMMARY:LEMONTREE Q2FY27 concall
@@ -1979,7 +488,7 @@ LOCATION:+91 9911 701 701
 END:VEVENT
 BEGIN:VEVENT
 UID:TATAPOWER-202611111800@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T123000Z
 DURATION:PT1H
 SUMMARY:TATAPOWER Q2FY27 concall
@@ -1990,7 +499,7 @@ LOCATION:+91 22 6280 1285
 END:VEVENT
 BEGIN:VEVENT
 UID:ALKEM-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:ALKEM Q2FY27 concall
@@ -2000,7 +509,7 @@ DESCRIPTION:Alkem Laboratories Ltd. (ALKEM) Q2FY27 earnings call\nInvite:
 END:VEVENT
 BEGIN:VEVENT
 UID:CMRGREEN-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:CMRGREEN Q2FY27 concall
@@ -2011,7 +520,7 @@ LOCATION:+91-129-4223050
 END:VEVENT
 BEGIN:VEVENT
 UID:KPITTECH-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:KPITTECH Q2FY27 concall
@@ -2023,7 +532,7 @@ LOCATION:+91 20 6770 6000
 END:VEVENT
 BEGIN:VEVENT
 UID:MANAPPURAM-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:MANAPPURAM Q2FY27 concall
@@ -2033,7 +542,7 @@ DESCRIPTION:Manappuram Finance Ltd. (MANAPPURAM) Q2FY27 earnings call\nInv
 END:VEVENT
 BEGIN:VEVENT
 UID:OLAELEC-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:OLAELEC Q2FY27 concall
@@ -2043,7 +552,7 @@ DESCRIPTION:Ola Electric Mobility Ltd. (OLAELEC) Q2FY27 earnings call\nInv
 END:VEVENT
 BEGIN:VEVENT
 UID:OLECTRA-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:OLECTRA Q2FY27 concall
@@ -2053,7 +562,7 @@ DESCRIPTION:Olectra Greentech Ltd. (OLECTRA) Q2FY27 earnings call\nInvite:
 END:VEVENT
 BEGIN:VEVENT
 UID:PAGEIND-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:PAGEIND Q2FY27 concall
@@ -2063,7 +572,7 @@ DESCRIPTION:Page Industries Ltd. (PAGEIND) Q2FY27 earnings call\nInvite: h
 END:VEVENT
 BEGIN:VEVENT
 UID:PREMEXPLN-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:PREMEXPLN Q2FY27 concall
@@ -2075,7 +584,7 @@ LOCATION:+91-40-66146839
 END:VEVENT
 BEGIN:VEVENT
 UID:PROFX-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:PROFX H1FY27 concall
@@ -2086,7 +595,7 @@ LOCATION:+91 88843 10123
 END:VEVENT
 BEGIN:VEVENT
 UID:RGL-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:RGL Q2FY27 concall
@@ -2101,7 +610,7 @@ LOCATION:https://renaissanceglobal.com/wp-content/uploads/2026/11/Renaissa
 END:VEVENT
 BEGIN:VEVENT
 UID:TRITURBINE-202611120000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261111T183000Z
 DURATION:PT1H
 SUMMARY:TRITURBINE Q2FY27 concall
@@ -2113,7 +622,7 @@ LOCATION:+91 120 4848000
 END:VEVENT
 BEGIN:VEVENT
 UID:COROMANDEL-202611121100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T053000Z
 DURATION:PT1H
 SUMMARY:COROMANDEL Q2FY27 concall
@@ -2130,7 +639,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:NGLFINE-202611121100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T053000Z
 DURATION:PT1H
 SUMMARY:NGLFINE Q2FY27 concall
@@ -2145,7 +654,7 @@ LOCATION:https://www.nglfinechem.com/wp-content/uploads/2026/11/Concall-NG
 END:VEVENT
 BEGIN:VEVENT
 UID:SUPRAJIT-202611121100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T053000Z
 DURATION:PT1H
 SUMMARY:SUPRAJIT Q2FY27 concall
@@ -2156,7 +665,7 @@ LOCATION:+1 866 746 2133
 END:VEVENT
 BEGIN:VEVENT
 UID:EXICOM-202611121200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T063000Z
 DURATION:PT1H
 SUMMARY:EXICOM Q2FY27 concall
@@ -2166,7 +675,7 @@ DESCRIPTION:Exicom Tele-Systems Limited (EXICOM) Q2FY27 earnings call\nInv
 END:VEVENT
 BEGIN:VEVENT
 UID:GUJALKALI-202611121211@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T064100Z
 DURATION:PT1H
 SUMMARY:GUJALKALI Q2FY27 concall
@@ -2179,7 +688,7 @@ LOCATION:+91-265-6111000
 END:VEVENT
 BEGIN:VEVENT
 UID:GUJALKALI-202611121230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T070000Z
 DURATION:PT1H
 SUMMARY:GUJALKALI Q2FY27 concall
@@ -2191,7 +700,7 @@ LOCATION:+91 22 6280 1342
 END:VEVENT
 BEGIN:VEVENT
 UID:TRITURBINE-202611121230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T070000Z
 DURATION:PT1H
 SUMMARY:TRITURBINE Q2FY27 concall
@@ -2208,7 +717,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:PROFX-202611121400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T083000Z
 DURATION:PT1H
 SUMMARY:PROFX H1FY27 concall
@@ -2220,7 +729,7 @@ LOCATION:+91 22 6280 1181
 END:VEVENT
 BEGIN:VEVENT
 UID:BLUEWATER-202611121500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T093000Z
 DURATION:PT1H
 SUMMARY:BLUEWATER H1FY27 concall
@@ -2233,7 +742,7 @@ LOCATION:https://bwl.co.in/corporate-announcements/
 END:VEVENT
 BEGIN:VEVENT
 UID:TALBROAUTO-202611121500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T093000Z
 DURATION:PT1H
 SUMMARY:TALBROAUTO Q2FY27 concall
@@ -2246,7 +755,7 @@ LOCATION:+ 91 129 2275434
 END:VEVENT
 BEGIN:VEVENT
 UID:NAVA-202611121600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T103000Z
 DURATION:PT1H
 SUMMARY:NAVA Q2FY27 concall
@@ -2257,7 +766,7 @@ LOCATION:+91 40 40345999
 END:VEVENT
 BEGIN:VEVENT
 UID:PAGEIND-202611121600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T103000Z
 DURATION:PT1H
 SUMMARY:PAGEIND Q2FY27 concall
@@ -2269,7 +778,7 @@ LOCATION:+91 22 6280 1468
 END:VEVENT
 BEGIN:VEVENT
 UID:RGL-202611121600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T103000Z
 DURATION:PT1H
 SUMMARY:RGL Q2FY27 concall
@@ -2280,7 +789,7 @@ LOCATION:+91 22 6280 1292
 END:VEVENT
 BEGIN:VEVENT
 UID:VINYAS-202611121600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T103000Z
 DURATION:PT1H
 SUMMARY:VINYAS H1FY27 concall
@@ -2296,7 +805,7 @@ LOCATION:vinyasit.com/wp-content/uploads/2026/11/Earnings_Call_H1_FY-2027_
 END:VEVENT
 BEGIN:VEVENT
 UID:ALKEM-202611121630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T110000Z
 DURATION:PT1H
 SUMMARY:ALKEM Q2FY27 concall
@@ -2313,7 +822,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:CAPLIPOINT-202611121630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T110000Z
 DURATION:PT1H
 SUMMARY:CAPLIPOINT Q2FY27 concall
@@ -2329,7 +838,7 @@ LOCATION:https://www.caplinpoint.net/wp-content/uploads/2026/08/Audio_Reco
 END:VEVENT
 BEGIN:VEVENT
 UID:OLECTRA-202611121630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T110000Z
 DURATION:PT1H
 SUMMARY:OLECTRA Q2FY27 concall
@@ -2344,7 +853,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:PATILAUTOM-202611121630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T110000Z
 DURATION:PT1H
 SUMMARY:PATILAUTOM H1FY27 concall
@@ -2355,7 +864,7 @@ LOCATION:+91 91683 38383
 END:VEVENT
 BEGIN:VEVENT
 UID:ROXHITECH-202611121630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T110000Z
 DURATION:PT1H
 SUMMARY:ROXHITECH H1FY27 concall
@@ -2367,7 +876,7 @@ LOCATION:+91 80822 26688
 END:VEVENT
 BEGIN:VEVENT
 UID:ICELCO-202611121700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T113000Z
 DURATION:PT1H
 SUMMARY:ICELCO H1FY27 concall
@@ -2380,7 +889,7 @@ LOCATION:https://us06web.zoom.us/meeting/register/zg-IdZ-FSDGjRHsXTgAyEg
 END:VEVENT
 BEGIN:VEVENT
 UID:MANAPPURAM-202611121700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T113000Z
 DURATION:PT1H
 SUMMARY:MANAPPURAM Q2FY27 concall
@@ -2392,7 +901,7 @@ LOCATION:+91 22 6280 1149
 END:VEVENT
 BEGIN:VEVENT
 UID:OLAELEC-202611121700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T113000Z
 DURATION:PT1H
 SUMMARY:OLAELEC Q2FY27 concall
@@ -2405,7 +914,7 @@ LOCATION:https://olacabs.zoom.us/meeting/register/fEljm8p_R0elv
 END:VEVENT
 BEGIN:VEVENT
 UID:POWERINDIA-202611121700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T113000Z
 DURATION:PT1H
 SUMMARY:POWERINDIA Q2FY27 concall
@@ -2419,7 +928,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?
 END:VEVENT
 BEGIN:VEVENT
 UID:DBL-202611121800@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T123000Z
 DURATION:PT1H
 SUMMARY:DBL Q2FY27 concall
@@ -2431,7 +940,7 @@ LOCATION:https://dilipbuildcon.com/investors/shareholders-centre/
 END:VEVENT
 BEGIN:VEVENT
 UID:POWERINDIA-202611121800@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T123000Z
 DURATION:PT1H
 SUMMARY:POWERINDIA Q2FY27 concall
@@ -2448,7 +957,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:ACE-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:ACE Q2FY27 concall
@@ -2460,7 +969,7 @@ LOCATION:+91-1275-280111
 END:VEVENT
 BEGIN:VEVENT
 UID:ASTRAMICRO-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:ASTRAMICRO Q2FY27 concall
@@ -2471,7 +980,7 @@ LOCATION:+91-40-46618000
 END:VEVENT
 BEGIN:VEVENT
 UID:AVALON-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:AVALON Q2FY27 concall
@@ -2481,7 +990,7 @@ DESCRIPTION:Avalon Technologies Ltd. (AVALON) Q2FY27 earnings call\nInvite
 END:VEVENT
 BEGIN:VEVENT
 UID:MANORAMA-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:MANORAMA Q2FY27 concall
@@ -2492,7 +1001,7 @@ LOCATION:+91-771-2283071
 END:VEVENT
 BEGIN:VEVENT
 UID:MMFL-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:MMFL Q2FY27 concall
@@ -2502,7 +1011,7 @@ DESCRIPTION:MM Forgings Limited (MMFL) Q2FY27 earnings call\nInvite: https
 END:VEVENT
 BEGIN:VEVENT
 UID:NATCOPHARM-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:NATCOPHARM Q2FY27 concall
@@ -2512,7 +1021,7 @@ DESCRIPTION:NATCO Pharma Ltd. (NATCOPHARM) Q2FY27 earnings call\nInvite: h
 END:VEVENT
 BEGIN:VEVENT
 UID:OSWALPUMPS-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:OSWALPUMPS Q2FY27 concall
@@ -2522,7 +1031,7 @@ DESCRIPTION:Oswal Pumps Ltd. (OSWALPUMPS) Q2FY27 earnings call\nInvite: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:RNFI-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:RNFI H1FY27 concall
@@ -2532,7 +1041,7 @@ DESCRIPTION:RNFI Services Limited (RNFI) H1FY27 earnings call (NSE Emerge
 END:VEVENT
 BEGIN:VEVENT
 UID:SALZERELEC-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:SALZERELEC Q2FY27 concall
@@ -2544,7 +1053,7 @@ LOCATION:+91 22 26598235
 END:VEVENT
 BEGIN:VEVENT
 UID:SCODATUBES-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:SCODATUBES Q2FY27 concall
@@ -2554,7 +1063,7 @@ DESCRIPTION:Scoda Tubes Limited (SCODATUBES) Q2FY27 earnings call\nInvite:
 END:VEVENT
 BEGIN:VEVENT
 UID:SUMAX-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:SUMAX H1FY27 concall
@@ -2564,7 +1073,7 @@ DESCRIPTION:Sumax Engineering Limited (SUMAX) H1FY27 earnings call (NSE Em
 END:VEVENT
 BEGIN:VEVENT
 UID:TMPV-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:TMPV Q2FY27 concall
@@ -2574,7 +1083,7 @@ DESCRIPTION:Tata Motors Passenger Vehicles Ltd. (TMPV) Q2FY27 earnings cal
 END:VEVENT
 BEGIN:VEVENT
 UID:USHAMART-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:USHAMART Q2FY27 concall
@@ -2584,7 +1093,7 @@ DESCRIPTION:Usha Martin Ltd. (USHAMART) Q2FY27 earnings call\nInvite: http
 END:VEVENT
 BEGIN:VEVENT
 UID:WAKEFIT-202611130000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261112T183000Z
 DURATION:PT1H
 SUMMARY:WAKEFIT Q2FY27 concall
@@ -2594,7 +1103,7 @@ DESCRIPTION:Wakefit Innovations Ltd. (WAKEFIT) Q2FY27 earnings call\nInvit
 END:VEVENT
 BEGIN:VEVENT
 UID:LANDMARK-202611130900@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T033000Z
 DURATION:PT1H
 SUMMARY:LANDMARK Q2FY27 concall
@@ -2610,7 +1119,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:AUTOAXLES-202611131000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T043000Z
 DURATION:PT1H
 SUMMARY:AUTOAXLES Q2FY27 concall
@@ -2626,7 +1135,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:MALLCOM-202611131030@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T050000Z
 DURATION:PT1H
 SUMMARY:MALLCOM Q2FY27 concall
@@ -2638,7 +1147,7 @@ LOCATION:https://mallcom.in/pages/investor-relations
 END:VEVENT
 BEGIN:VEVENT
 UID:MSTCLTD-202611131100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T053000Z
 DURATION:PT1H
 SUMMARY:MSTCLTD Q2FY27 concall
@@ -2649,7 +1158,7 @@ LOCATION:+91 22 6280 1224
 END:VEVENT
 BEGIN:VEVENT
 UID:OIL-202611131100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T053000Z
 DURATION:PT1H
 SUMMARY:OIL Q2FY27 concall
@@ -2661,7 +1170,7 @@ LOCATION:+913742804510
 END:VEVENT
 BEGIN:VEVENT
 UID:POWERMECH-202611131100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T053000Z
 DURATION:PT1H
 SUMMARY:POWERMECH Q2FY27 concall
@@ -2677,7 +1186,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:WAKEFIT-202611131100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T053000Z
 DURATION:PT1H
 SUMMARY:WAKEFIT Q2FY27 concall
@@ -2689,7 +1198,7 @@ LOCATION:+91 98833 33123
 END:VEVENT
 BEGIN:VEVENT
 UID:SALZERELEC-202611131130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T060000Z
 DURATION:PT1H
 SUMMARY:SALZERELEC Q2FY27 concall
@@ -2702,7 +1211,7 @@ LOCATION:+91 22 6280 1102
 END:VEVENT
 BEGIN:VEVENT
 UID:TDPOWERSYS-202611131130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T060000Z
 DURATION:PT1H
 SUMMARY:TDPOWERSYS Q2FY27 concall
@@ -2715,7 +1224,7 @@ LOCATION:https://www.tdps.co.in/investor-relations/financial-results
 END:VEVENT
 BEGIN:VEVENT
 UID:RNFI-202611131200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T063000Z
 DURATION:PT1H
 SUMMARY:RNFI H1FY27 concall
@@ -2727,7 +1236,7 @@ LOCATION:https://www.c-meeting.com/web3/join/3RBMX9N2BJ8KVF
 END:VEVENT
 BEGIN:VEVENT
 UID:CLSEL-202611131215@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T064500Z
 DURATION:PT1H
 SUMMARY:CLSEL Q2FY27 concall
@@ -2740,7 +1249,7 @@ LOCATION:https://events.kaptify.in/CLSEL-Q2-H1FY27-Concall
 END:VEVENT
 BEGIN:VEVENT
 UID:GULPOLY-202611131230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T070000Z
 DURATION:PT1H
 SUMMARY:GULPOLY Q2FY27 concall
@@ -2752,7 +1261,7 @@ LOCATION:+91 11 49999200
 END:VEVENT
 BEGIN:VEVENT
 UID:PREMEXPLN-202611131230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T070000Z
 DURATION:PT1H
 SUMMARY:PREMEXPLN Q2FY27 concall
@@ -2764,7 +1273,7 @@ LOCATION:+91-40-66146839
 END:VEVENT
 BEGIN:VEVENT
 UID:PURPLEUTED-202611131230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T070000Z
 DURATION:PT1H
 SUMMARY:PURPLEUTED H1FY27 concall
@@ -2776,7 +1285,7 @@ LOCATION:+91-9667792635
 END:VEVENT
 BEGIN:VEVENT
 UID:QLINE-202611131230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T070000Z
 DURATION:PT1H
 SUMMARY:QLINE H1FY27 concall
@@ -2788,7 +1297,7 @@ LOCATION:+91 22 6239 8024
 END:VEVENT
 BEGIN:VEVENT
 UID:GCHOTELS-202611131300@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T073000Z
 DURATION:PT1H
 SUMMARY:GCHOTELS H1FY27 concall
@@ -2802,7 +1311,7 @@ LOCATION:https://us06web.zoom.us/meeting/register/uUS6KdgWRHumy2LNgZssXg
 END:VEVENT
 BEGIN:VEVENT
 UID:MMFL-202611131300@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T073000Z
 DURATION:PT1H
 SUMMARY:MMFL Q2FY27 concall
@@ -2819,7 +1328,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:CLSEL-202611131311@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T074100Z
 DURATION:PT1H
 SUMMARY:CLSEL Q2FY27 concall
@@ -2829,7 +1338,7 @@ DESCRIPTION:Chaman Lal Setia Exports Limited (CLSEL) Q2FY27 earnings call\
 END:VEVENT
 BEGIN:VEVENT
 UID:STEELCAS-202611131311@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T074100Z
 DURATION:PT1H
 SUMMARY:STEELCAS Q2FY27 concall
@@ -2839,7 +1348,7 @@ DESCRIPTION:Steelcast Limited (STEELCAS) Q2FY27 earnings call\nInvite: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:MANORAMA-202611131330@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T080000Z
 DURATION:PT1H
 SUMMARY:MANORAMA Q2FY27 concall
@@ -2852,7 +1361,7 @@ LOCATION:+91-771-2283071
 END:VEVENT
 BEGIN:VEVENT
 UID:ASTRAMICRO-202611131400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T083000Z
 DURATION:PT1H
 SUMMARY:ASTRAMICRO Q2FY27 concall
@@ -2864,7 +1373,7 @@ LOCATION:+91-40-46618000
 END:VEVENT
 BEGIN:VEVENT
 UID:IDEA-202611131430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T090000Z
 DURATION:PT1H
 SUMMARY:IDEA Q2FY27 concall
@@ -2877,7 +1386,7 @@ LOCATION:+91 88287 66000
 END:VEVENT
 BEGIN:VEVENT
 UID:KPIGREEN-202611131430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T090000Z
 DURATION:PT1H
 SUMMARY:KPIGREEN Q2FY27 concall
@@ -2889,7 +1398,7 @@ LOCATION:+91 22 6280 1266
 END:VEVENT
 BEGIN:VEVENT
 UID:OSWALPUMPS-202611131430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T090000Z
 DURATION:PT1H
 SUMMARY:OSWALPUMPS Q2FY27 concall
@@ -2900,7 +1409,7 @@ LOCATION:+1 866 746 2133
 END:VEVENT
 BEGIN:VEVENT
 UID:AVALON-202611131530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T100000Z
 DURATION:PT1H
 SUMMARY:AVALON Q2FY27 concall
@@ -2915,7 +1424,7 @@ LOCATION:https://www.avalontec.com/investor/weblink/Avalon-Technologies-Li
 END:VEVENT
 BEGIN:VEVENT
 UID:EDELWEISS-202611131530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T100000Z
 DURATION:PT1H
 SUMMARY:EDELWEISS Q2FY27 concall
@@ -2927,7 +1436,7 @@ LOCATION:+91 22 4079 5199
 END:VEVENT
 BEGIN:VEVENT
 UID:GOLDIAM-202611131530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T100000Z
 DURATION:PT1H
 SUMMARY:GOLDIAM Q2FY27 concall
@@ -2937,7 +1446,7 @@ DESCRIPTION:Goldiam International Ltd. (GOLDIAM) Q2FY27 earnings call\nInv
 END:VEVENT
 BEGIN:VEVENT
 UID:POCL-202611131530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T100000Z
 DURATION:PT1H
 SUMMARY:POCL Q2FY27 concall
@@ -2950,7 +1459,7 @@ LOCATION:https://ccreservations.com/recordings/data/10049429.mp3
 END:VEVENT
 BEGIN:VEVENT
 UID:SUMAX-202611131530@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T100000Z
 DURATION:PT1H
 SUMMARY:SUMAX H1FY27 concall
@@ -2962,7 +1471,7 @@ LOCATION:+91 80822 26688
 END:VEVENT
 BEGIN:VEVENT
 UID:ACE-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:ACE Q2FY27 concall
@@ -2980,7 +1489,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:ASHAPURMIN-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:ASHAPURMIN Q2FY27 concall
@@ -2992,7 +1501,7 @@ LOCATION:https://www.ashapura.com/investor-call.php
 END:VEVENT
 BEGIN:VEVENT
 UID:DOLLAR-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:DOLLAR Q2FY27 concall
@@ -3005,7 +1514,7 @@ LOCATION:https://www.dollarglobal.in/board-of-directors/concall-recording/
 END:VEVENT
 BEGIN:VEVENT
 UID:ELECTCAST-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:ELECTCAST Q2FY27 concall
@@ -3015,7 +1524,7 @@ DESCRIPTION:Electrosteel Castings Ltd. (ELECTCAST) Q2FY27 earnings call\nI
 END:VEVENT
 BEGIN:VEVENT
 UID:FIEMIND-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:FIEMIND Q2FY27 concall
@@ -3027,7 +1536,7 @@ LOCATION:+91 22 6280 1455
 END:VEVENT
 BEGIN:VEVENT
 UID:FINCABLES-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:FINCABLES Q2FY27 concall
@@ -3039,7 +1548,7 @@ LOCATION:+91 22 6280 1129
 END:VEVENT
 BEGIN:VEVENT
 UID:GRASIM-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:GRASIM Q2FY27 concall
@@ -3051,7 +1560,7 @@ LOCATION:+91 22 6280 1127
 END:VEVENT
 BEGIN:VEVENT
 UID:MANINDS-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:MANINDS Q2FY27 concall
@@ -3063,7 +1572,7 @@ LOCATION:+91 22 6280 1259
 END:VEVENT
 BEGIN:VEVENT
 UID:NATCOPHARM-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:NATCOPHARM Q2FY27 concall
@@ -3073,7 +1582,7 @@ DESCRIPTION:NATCO Pharma Ltd. (NATCOPHARM) Q2FY27 earnings call\nInvite: h
 END:VEVENT
 BEGIN:VEVENT
 UID:ORIENTBELL-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:ORIENTBELL Q2FY27 concall
@@ -3087,7 +1596,7 @@ LOCATION:https://images.orientbell.com/media/investor_investor/1/0/1004945
 END:VEVENT
 BEGIN:VEVENT
 UID:RELIGARE-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:RELIGARE Q2FY27 concall
@@ -3100,7 +1609,7 @@ LOCATION:+91 22 6280 1102
 END:VEVENT
 BEGIN:VEVENT
 UID:SCODATUBES-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:SCODATUBES Q2FY27 concall
@@ -3112,7 +1621,7 @@ LOCATION:+91-99259 11296
 END:VEVENT
 BEGIN:VEVENT
 UID:TITAGARH-202611131600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T103000Z
 DURATION:PT1H
 SUMMARY:TITAGARH Q2FY27 concall
@@ -3123,7 +1632,7 @@ LOCATION:+91 33 4019 0800
 END:VEVENT
 BEGIN:VEVENT
 UID:KPIGREEN-202611131630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T110000Z
 DURATION:PT1H
 SUMMARY:KPIGREEN Q2FY27 concall
@@ -3133,7 +1642,7 @@ DESCRIPTION:KPI Green Energy Ltd. (KPIGREEN) Q2FY27 earnings call\nInvite:
 END:VEVENT
 BEGIN:VEVENT
 UID:SUTLEJTEX-202611131630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T110000Z
 DURATION:PT1H
 SUMMARY:SUTLEJTEX Q2FY27 concall
@@ -3149,7 +1658,7 @@ LOCATION:https://www.sutlejtextiles.com/pdf/Earning%20Call/STIL_Q2FY27_Ean
 END:VEVENT
 BEGIN:VEVENT
 UID:INOXWIND-202611131700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T113000Z
 DURATION:PT1H
 SUMMARY:INOXWIND Q2FY27 concall
@@ -3161,7 +1670,7 @@ LOCATION:+91 22 6280 1149
 END:VEVENT
 BEGIN:VEVENT
 UID:USHAMART-202611131700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T113000Z
 DURATION:PT1H
 SUMMARY:USHAMART Q2FY27 concall
@@ -3173,7 +1682,7 @@ LOCATION:+91 98330 90434
 END:VEVENT
 BEGIN:VEVENT
 UID:EICHERMOT-202611131715@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T114500Z
 DURATION:PT1H
 SUMMARY:EICHERMOT Q2FY27 concall
@@ -3188,7 +1697,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:AMBER-202611131730@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T120000Z
 DURATION:PT1H
 SUMMARY:AMBER Q2FY27 concall
@@ -3200,7 +1709,7 @@ LOCATION:+91 22 6280 1309
 END:VEVENT
 BEGIN:VEVENT
 UID:ZAGGLE-202611131730@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T120000Z
 DURATION:PT1H
 SUMMARY:ZAGGLE Q2FY27 concall
@@ -3215,7 +1724,7 @@ LOCATION:https://zaggle-corporate-website.s3.ap-south-1.amazonaws.com/uplo
 END:VEVENT
 BEGIN:VEVENT
 UID:TMPV-202611131830@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261113T130000Z
 DURATION:PT1H
 SUMMARY:TMPV Q2FY27 concall
@@ -3228,7 +1737,7 @@ LOCATION:https://webstream.streamcart.com/live/tatamotors13112026
 END:VEVENT
 BEGIN:VEVENT
 UID:BBOX-202611141000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T043000Z
 DURATION:PT1H
 SUMMARY:BBOX Q2FY27 concall
@@ -3240,7 +1749,7 @@ LOCATION:+91 22 6661 7272
 END:VEVENT
 BEGIN:VEVENT
 UID:MAHSEAMLES-202611141100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T053000Z
 DURATION:PT1H
 SUMMARY:MAHSEAMLES Q2FY27 concall
@@ -3257,7 +1766,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:RHIM-202611141100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T053000Z
 DURATION:PT1H
 SUMMARY:RHIM Q2FY27 concall
@@ -3273,7 +1782,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:VIYASH-202611141100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T053000Z
 DURATION:PT1H
 SUMMARY:VIYASH Q2FY27 concall
@@ -3285,7 +1794,7 @@ LOCATION:+91 40 23635000
 END:VEVENT
 BEGIN:VEVENT
 UID:APSISAERO-202611141200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T063000Z
 DURATION:PT1H
 SUMMARY:APSISAERO H1FY27 concall
@@ -3301,7 +1810,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:SAMMAANCAP-202611141230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T070000Z
 DURATION:PT1H
 SUMMARY:SAMMAANCAP Q2FY27 concall
@@ -3313,7 +1822,7 @@ LOCATION:+91 1246048213
 END:VEVENT
 BEGIN:VEVENT
 UID:CMSINFO-202611141400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T083000Z
 DURATION:PT1H
 SUMMARY:CMSINFO Q2FY27 concall
@@ -3326,7 +1835,7 @@ LOCATION:+91-22-4889 7400
 END:VEVENT
 BEGIN:VEVENT
 UID:PATANJALI-202611141500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T093000Z
 DURATION:PT1H
 SUMMARY:PATANJALI Q2FY27 concall
@@ -3338,7 +1847,7 @@ LOCATION:+91 22 6280 1309
 END:VEVENT
 BEGIN:VEVENT
 UID:ZTECH-202611141500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261114T093000Z
 DURATION:PT1H
 SUMMARY:ZTECH H1FY27 concall
@@ -3354,7 +1863,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:KPITTECH-202611160000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261115T183000Z
 DURATION:PT1H
 SUMMARY:KPITTECH Q2FY27 concall
@@ -3366,7 +1875,7 @@ LOCATION:+91 20 6770 6000
 END:VEVENT
 BEGIN:VEVENT
 UID:JUBLPHARMA-202611160830@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T030000Z
 DURATION:PT1H
 SUMMARY:JUBLPHARMA Q2FY27 concall
@@ -3378,7 +1887,7 @@ LOCATION:+91 120 4361000
 END:VEVENT
 BEGIN:VEVENT
 UID:KAYNES-202611160830@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T030000Z
 DURATION:PT1H
 SUMMARY:KAYNES Q2FY27 concall
@@ -3390,7 +1899,7 @@ LOCATION:+91 8212582595
 END:VEVENT
 BEGIN:VEVENT
 UID:TVSSCS-202611160900@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T033000Z
 DURATION:PT1H
 SUMMARY:TVSSCS Q2FY27 concall
@@ -3408,7 +1917,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:VISAKAIND-202611160911@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T034100Z
 DURATION:PT1H
 SUMMARY:VISAKAIND Q2FY27 concall
@@ -3420,7 +1929,7 @@ LOCATION:+91-9780042377
 END:VEVENT
 BEGIN:VEVENT
 UID:BELRISE-202611160930@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T040000Z
 DURATION:PT1H
 SUMMARY:BELRISE Q2FY27 concall
@@ -3432,7 +1941,7 @@ LOCATION:+91 98333 73300
 END:VEVENT
 BEGIN:VEVENT
 UID:CUMMINSIND-202611161000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T043000Z
 DURATION:PT1H
 SUMMARY:CUMMINSIND Q2FY27 concall
@@ -3444,7 +1953,7 @@ LOCATION:+91 20 67067000
 END:VEVENT
 BEGIN:VEVENT
 UID:SANDHAR-202611161000@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T043000Z
 DURATION:PT1H
 SUMMARY:SANDHAR Q2FY27 concall
@@ -3457,7 +1966,7 @@ LOCATION:+ 91 12-4518900
 END:VEVENT
 BEGIN:VEVENT
 UID:ABB-202611161030@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T050000Z
 DURATION:PT1H
 SUMMARY:ABB Q2FY27 concall
@@ -3469,7 +1978,7 @@ LOCATION:+91 80 22949150
 END:VEVENT
 BEGIN:VEVENT
 UID:EIDPARRY-202611161030@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T050000Z
 DURATION:PT1H
 SUMMARY:EIDPARRY Q2FY27 concall
@@ -3481,7 +1990,7 @@ LOCATION:+91 22 6280 1384
 END:VEVENT
 BEGIN:VEVENT
 UID:ASHOKLEY-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:ASHOKLEY Q2FY27 concall
@@ -3497,7 +2006,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:EIHOTEL-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:EIHOTEL Q2FY27 concall
@@ -3513,7 +2022,7 @@ LOCATION:https://events.teams.microsoft.com/event/42fe590c-f884-44b8-a579-
 END:VEVENT
 BEGIN:VEVENT
 UID:FCL-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:FCL Q2FY27 concall
@@ -3524,7 +2033,7 @@ LOCATION:+91 22 6280 1578
 END:VEVENT
 BEGIN:VEVENT
 UID:GSPCROP-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:GSPCROP Q2FY27 concall
@@ -3535,7 +2044,7 @@ LOCATION:+91 22 6280 1102
 END:VEVENT
 BEGIN:VEVENT
 UID:INNOVACAP-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:INNOVACAP Q2FY27 concall
@@ -3547,7 +2056,7 @@ LOCATION:+91-172-4194500
 END:VEVENT
 BEGIN:VEVENT
 UID:JSLL-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:JSLL Q2FY27 concall
@@ -3559,7 +2068,7 @@ LOCATION:+91 8619707750
 END:VEVENT
 BEGIN:VEVENT
 UID:SENCO-202611161100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T053000Z
 DURATION:PT1H
 SUMMARY:SENCO Q2FY27 concall
@@ -3571,7 +2080,7 @@ LOCATION:+91 22 6280 1144
 END:VEVENT
 BEGIN:VEVENT
 UID:ALICON-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:ALICON Q2FY27 concall
@@ -3584,7 +2093,7 @@ LOCATION:+91 21 3767 7100
 END:VEVENT
 BEGIN:VEVENT
 UID:APEX-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:APEX Q2FY27 concall
@@ -3595,7 +2104,7 @@ LOCATION:+91 22 6239 8024
 END:VEVENT
 BEGIN:VEVENT
 UID:KNRCON-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:KNRCON Q2FY27 concall
@@ -3607,7 +2116,7 @@ LOCATION:+91-40-40268759
 END:VEVENT
 BEGIN:VEVENT
 UID:PENIND-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:PENIND Q2FY27 concall
@@ -3621,7 +2130,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:TIIL-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:TIIL Q2FY27 concall
@@ -3637,7 +2146,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:VGINFOTECH-202611161130@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T060000Z
 DURATION:PT1H
 SUMMARY:VGINFOTECH H1FY27 concall
@@ -3649,7 +2158,7 @@ LOCATION:+91 84012 07703
 END:VEVENT
 BEGIN:VEVENT
 UID:E2ERAIL-202611161200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T063000Z
 DURATION:PT1H
 SUMMARY:E2ERAIL H1FY27 concall
@@ -3662,7 +2171,7 @@ LOCATION:+91 80 4931 1999
 END:VEVENT
 BEGIN:VEVENT
 UID:MAXVOLT-202611161200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T063000Z
 DURATION:PT1H
 SUMMARY:MAXVOLT H1FY27 concall
@@ -3674,7 +2183,7 @@ LOCATION:+91 22 6280 1569
 END:VEVENT
 BEGIN:VEVENT
 UID:SPAL-202611161200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T063000Z
 DURATION:PT1H
 SUMMARY:SPAL Q2FY27 concall
@@ -3686,7 +2195,7 @@ LOCATION:+91 22 6280 1384
 END:VEVENT
 BEGIN:VEVENT
 UID:GANESHIN-202611161230@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T070000Z
 DURATION:PT1H
 SUMMARY:GANESHIN H1FY27 concall
@@ -3699,7 +2208,7 @@ LOCATION:+91-033-46041066
 END:VEVENT
 BEGIN:VEVENT
 UID:K2INFRA-202611161400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T083000Z
 DURATION:PT1H
 SUMMARY:K2INFRA H1FY27 concall
@@ -3711,7 +2220,7 @@ LOCATION:+91 124 4896700
 END:VEVENT
 BEGIN:VEVENT
 UID:MEGATHERM-202611161400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T083000Z
 DURATION:PT1H
 SUMMARY:MEGATHERM H1FY27 concall
@@ -3723,7 +2232,7 @@ LOCATION:+91-845 288 6099
 END:VEVENT
 BEGIN:VEVENT
 UID:POWERICA-202611161400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T083000Z
 DURATION:PT1H
 SUMMARY:POWERICA Q2FY27 concall
@@ -3740,7 +2249,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:BEWLTD-202611161430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T090000Z
 DURATION:PT1H
 SUMMARY:BEWLTD H1FY27 concall
@@ -3755,7 +2264,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:STANLEY-202611161430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T090000Z
 DURATION:PT1H
 SUMMARY:STANLEY Q2FY27 concall
@@ -3767,7 +2276,7 @@ LOCATION:+91 22 6280 1325
 END:VEVENT
 BEGIN:VEVENT
 UID:DCAL-202611161500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T093000Z
 DURATION:PT1H
 SUMMARY:DCAL Q2FY27 concall
@@ -3778,7 +2287,7 @@ LOCATION:+91 22 22867597
 END:VEVENT
 BEGIN:VEVENT
 UID:DUCOL-202611161500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T093000Z
 DURATION:PT1H
 SUMMARY:DUCOL H1FY27 concall
@@ -3792,7 +2301,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRe
 END:VEVENT
 BEGIN:VEVENT
 UID:PICCADIL-202611161500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T093000Z
 DURATION:PT1H
 SUMMARY:PICCADIL Q2FY27 concall
@@ -3804,7 +2313,7 @@ LOCATION:+91-124-4300840
 END:VEVENT
 BEGIN:VEVENT
 UID:RML-202611161500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T093000Z
 DURATION:PT1H
 SUMMARY:RML Q2FY27 concall
@@ -3815,7 +2324,7 @@ LOCATION:+91 22 6280 1107
 END:VEVENT
 BEGIN:VEVENT
 UID:ALLETEC-202611161515@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T094500Z
 DURATION:PT1H
 SUMMARY:ALLETEC H1FY27 concall
@@ -3827,7 +2336,7 @@ LOCATION:+91-845 288 6099
 END:VEVENT
 BEGIN:VEVENT
 UID:CLASSICEIL-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:CLASSICEIL H1FY27 concall
@@ -3839,7 +2348,7 @@ LOCATION:+91 80822 26688
 END:VEVENT
 BEGIN:VEVENT
 UID:DEEPAKFERT-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:DEEPAKFERT Q2FY27 concall
@@ -3856,7 +2365,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:ENVIRO-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:ENVIRO H1FY27 concall
@@ -3868,7 +2377,7 @@ LOCATION:+91 22 6280 1132
 END:VEVENT
 BEGIN:VEVENT
 UID:FILATEX-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:FILATEX Q2FY27 concall
@@ -3879,7 +2388,7 @@ LOCATION:+91 22 6280 1511
 END:VEVENT
 BEGIN:VEVENT
 UID:FIRSTCRY-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:FIRSTCRY Q2FY27 concall
@@ -3890,7 +2399,7 @@ LOCATION:+91-8482989157
 END:VEVENT
 BEGIN:VEVENT
 UID:JWL-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:JWL Q2FY27 concall
@@ -3900,7 +2409,7 @@ DESCRIPTION:Jupiter Wagons Ltd. (JWL) Q2FY27 earnings call\nInvite: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:OSELDEVICE-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:OSELDEVICE H1FY27 concall
@@ -3916,7 +2425,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:RELAXO-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:RELAXO Q2FY27 concall
@@ -3928,7 +2437,7 @@ LOCATION:+91 22 6280 1259
 END:VEVENT
 BEGIN:VEVENT
 UID:SATTVAENGG-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:SATTVAENGG H1FY27 concall
@@ -3940,7 +2449,7 @@ LOCATION:+91 94293 55329
 END:VEVENT
 BEGIN:VEVENT
 UID:UFLEX-202611161600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T103000Z
 DURATION:PT1H
 SUMMARY:UFLEX Q2FY27 concall
@@ -3952,7 +2461,7 @@ LOCATION:+91 22 6280 1466
 END:VEVENT
 BEGIN:VEVENT
 UID:GPIL-202611161611@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T104100Z
 DURATION:PT1H
 SUMMARY:GPIL Q2FY27 concall
@@ -3964,7 +2473,7 @@ LOCATION:+91 22 6280 1455
 END:VEVENT
 BEGIN:VEVENT
 UID:ANONDITA-202611161630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T110000Z
 DURATION:PT1H
 SUMMARY:ANONDITA H1FY27 concall
@@ -3976,7 +2485,7 @@ LOCATION:+91 22 6280 1296
 END:VEVENT
 BEGIN:VEVENT
 UID:AXISCADES-202611161630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T110000Z
 DURATION:PT1H
 SUMMARY:AXISCADES Q2FY27 concall
@@ -3988,7 +2497,7 @@ LOCATION:+91 80 4193 9000
 END:VEVENT
 BEGIN:VEVENT
 UID:FROG-202611161630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T110000Z
 DURATION:PT1H
 SUMMARY:FROG H1FY27 concall
@@ -4000,7 +2509,7 @@ LOCATION:+91 22 6280 1107
 END:VEVENT
 BEGIN:VEVENT
 UID:GUFICBIO-202611161630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T110000Z
 DURATION:PT1H
 SUMMARY:GUFICBIO Q2FY27 concall
@@ -4016,7 +2525,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:PUSHPA-202611161700@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261116T113000Z
 DURATION:PT1H
 SUMMARY:PUSHPA H1FY27 concall
@@ -4032,7 +2541,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:KDDL-202611171030@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T050000Z
 DURATION:PT1H
 SUMMARY:KDDL Q2FY27 concall
@@ -4044,7 +2553,7 @@ LOCATION:+91 172 2548223
 END:VEVENT
 BEGIN:VEVENT
 UID:MAMATA-202611171100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T053000Z
 DURATION:PT1H
 SUMMARY:MAMATA Q2FY27 concall
@@ -4056,7 +2565,7 @@ LOCATION:+91-2717-630800
 END:VEVENT
 BEGIN:VEVENT
 UID:MBAPL-202611171200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T063000Z
 DURATION:PT1H
 SUMMARY:MBAPL Q2FY27 concall
@@ -4067,7 +2576,7 @@ LOCATION:+91-9329846672
 END:VEVENT
 BEGIN:VEVENT
 UID:AVIENCE-202611171300@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T073000Z
 DURATION:PT1H
 SUMMARY:AVIENCE H1FY27 concall
@@ -4083,7 +2592,7 @@ LOCATION:https://us06web.zoom.us/j/86064421374?pwd=xOPLY1dnD6gO2bpnW4r3IgH
 END:VEVENT
 BEGIN:VEVENT
 UID:ASHUTOSH-202611171400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T083000Z
 DURATION:PT1H
 SUMMARY:ASHUTOSH H1FY27 concall
@@ -4096,7 +2605,7 @@ LOCATION:https://us06web.zoom.us/meeting/register/Skvu19MUT9OETSru1gORcg
 END:VEVENT
 BEGIN:VEVENT
 UID:TEJASCARGO-202611171400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T083000Z
 DURATION:PT1H
 SUMMARY:TEJASCARGO H1FY27 concall
@@ -4108,7 +2617,7 @@ LOCATION:+91 22 6280 1341
 END:VEVENT
 BEGIN:VEVENT
 UID:DEEDEV-202611171500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T093000Z
 DURATION:PT1H
 SUMMARY:DEEDEV Q2FY27 concall
@@ -4121,7 +2630,7 @@ LOCATION:+91 1275 248200
 END:VEVENT
 BEGIN:VEVENT
 UID:JAIBALAJI-202611171500@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T093000Z
 DURATION:PT1H
 SUMMARY:JAIBALAJI Q2FY27 concall
@@ -4133,7 +2642,7 @@ LOCATION:+91-33-2248 3604
 END:VEVENT
 BEGIN:VEVENT
 UID:ALLETEC-202611171515@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T094500Z
 DURATION:PT1H
 SUMMARY:ALLETEC H1FY27 concall
@@ -4145,7 +2654,7 @@ LOCATION:+91-845 288 6099
 END:VEVENT
 BEGIN:VEVENT
 UID:CHETANA-202611171600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T103000Z
 DURATION:PT1H
 SUMMARY:CHETANA H1FY27 concall
@@ -4161,7 +2670,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:ETML-202611171600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T103000Z
 DURATION:PT1H
 SUMMARY:ETML H1FY27 concall
@@ -4174,7 +2683,7 @@ LOCATION:+91 44 6790 5505
 END:VEVENT
 BEGIN:VEVENT
 UID:HEXAGON-202611171600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T103000Z
 DURATION:PT1H
 SUMMARY:HEXAGON Q2FY27 concall
@@ -4190,7 +2699,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:IFGLEXPOR-202611171600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T103000Z
 DURATION:PT1H
 SUMMARY:IFGLEXPOR Q2FY27 concall
@@ -4203,7 +2712,7 @@ LOCATION:+91 33 4010 6100
 END:VEVENT
 BEGIN:VEVENT
 UID:KRMAYURVED-202611171600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T103000Z
 DURATION:PT1H
 SUMMARY:KRMAYURVED H1FY27 concall
@@ -4215,7 +2724,7 @@ LOCATION:+91-9667791365
 END:VEVENT
 BEGIN:VEVENT
 UID:ORCHPHARMA-202611171630@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261117T110000Z
 DURATION:PT1H
 SUMMARY:ORCHPHARMA Q2FY27 concall
@@ -4226,7 +2735,7 @@ LOCATION:+91-44-27444471
 END:VEVENT
 BEGIN:VEVENT
 UID:CHANDAN-202611181200@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T063000Z
 DURATION:PT1H
 SUMMARY:CHANDAN H1FY27 concall
@@ -4238,7 +2747,7 @@ LOCATION:+91 22 7115 8140
 END:VEVENT
 BEGIN:VEVENT
 UID:EMMIL-202611181400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T083000Z
 DURATION:PT1H
 SUMMARY:EMMIL H1FY27 concall
@@ -4251,7 +2760,7 @@ LOCATION:+91 99 4009 5558
 END:VEVENT
 BEGIN:VEVENT
 UID:AERON-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:AERON H1FY27 concall
@@ -4263,7 +2772,7 @@ LOCATION:+91 22 6280 1557
 END:VEVENT
 BEGIN:VEVENT
 UID:BMISL-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:BMISL H1FY27 concall
@@ -4275,7 +2784,7 @@ LOCATION:+033-23720268
 END:VEVENT
 BEGIN:VEVENT
 UID:DMCC-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:DMCC Q2FY27 concall
@@ -4286,7 +2795,7 @@ LOCATION:+91 22 7115 8242
 END:VEVENT
 BEGIN:VEVENT
 UID:HEXAGON-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:HEXAGON Q2FY27 concall
@@ -4302,7 +2811,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:INDIAGLYCO-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:INDIAGLYCO Q2FY27 concall
@@ -4313,7 +2822,7 @@ LOCATION:+91 22 6280 1107
 END:VEVENT
 BEGIN:VEVENT
 UID:MAANALU-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:MAANALU Q2FY27 concall
@@ -4326,7 +2835,7 @@ LOCATION:https://services.choruscall.in/
 END:VEVENT
 BEGIN:VEVENT
 UID:NAMOEWASTE-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:NAMOEWASTE H1FY27 concall
@@ -4338,7 +2847,7 @@ LOCATION:+91-845 288 6099
 END:VEVENT
 BEGIN:VEVENT
 UID:TECHD-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:TECHD H1FY27 concall
@@ -4351,7 +2860,7 @@ LOCATION:https://us06web.zoom.us/webinar/register/WN_fdaXT0u1Qn-
 END:VEVENT
 BEGIN:VEVENT
 UID:TECHERA-202611181600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261118T103000Z
 DURATION:PT1H
 SUMMARY:TECHERA H1FY27 concall
@@ -4364,7 +2873,7 @@ LOCATION:https://meet.google.com/jrr-yptf-jjk
 END:VEVENT
 BEGIN:VEVENT
 UID:MIDHANI-202611191100@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261119T053000Z
 DURATION:PT1H
 SUMMARY:MIDHANI Q2FY27 concall
@@ -4376,8 +2885,20 @@ DESCRIPTION:Mishra Dhatu Nigam Ltd. (MIDHANI) Q2FY27 earnings call\nDial-i
 LOCATION:+91 22 6280 1144
 END:VEVENT
 BEGIN:VEVENT
+UID:UHTL-202611191400@results-tracker
+DTSTAMP:20261113T184515Z
+DTSTART:20261119T083000Z
+DURATION:PT1H
+SUMMARY:UHTL H1FY27 concall
+DESCRIPTION:United Heat Transfer Limited (UHTL) H1FY27 earnings call (NSE 
+ Emerge SME)\nDial-in: +91-845 288 6099\nPasscode / ID: 834 3733 0830\nInv
+ ite: https://nsearchives.nseindia.com/corporate/UNITEDHEAT_13112026224846
+ _UHTL-_Concall_invite.pdf
+LOCATION:+91-845 288 6099
+END:VEVENT
+BEGIN:VEVENT
 UID:ROXHITECH-202611201400@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261120T083000Z
 DURATION:PT1H
 SUMMARY:ROXHITECH H1FY27 concall
@@ -4389,7 +2910,7 @@ LOCATION:+91 80822 26688
 END:VEVENT
 BEGIN:VEVENT
 UID:IPHL-202611201600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261120T103000Z
 DURATION:PT1H
 SUMMARY:IPHL H1FY27 concall
@@ -4402,7 +2923,7 @@ LOCATION:+91 22 6280 1446
 END:VEVENT
 BEGIN:VEVENT
 UID:ZFCVINDIA-202611231430@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261123T090000Z
 DURATION:PT1H
 SUMMARY:ZFCVINDIA Q2FY27 concall
@@ -4419,7 +2940,7 @@ LOCATION:https://services.choruscall.in/DiamondPassRegistration/register?c
 END:VEVENT
 BEGIN:VEVENT
 UID:ADDICTIVE-202611231600@results-tracker
-DTSTAMP:20261113T174141Z
+DTSTAMP:20261113T184515Z
 DTSTART:20261123T103000Z
 DURATION:PT1H
 SUMMARY:ADDICTIVE H1FY27 concall
